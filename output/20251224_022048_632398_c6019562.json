@@ -1,0 +1,241 @@
+{
+  "batch_id": "c6019562",
+  "record_count": 11,
+  "records": [
+    {
+      "messageId": "560b7d23-97d6-4be0-8c57-ad5dfff40d17",
+      "publishTime": "2025-12-24T02:20:48.628008+00:00",
+      "payload": {
+        "sessionId": "9b26110d-15c2-4ee4-88e9-a7844422504e",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 18185,
+          "userId": "8035e508-0859-4ae2-bd1c-1701d0acdb25",
+          "timestamp": "2025-12-24T02:20:48.628045+00:00",
+          "metadata": {
+            "ipAddress": "89.141.154.228",
+            "userAgent": "Important name ten they build type. Compare compare around myself major. Finish enough television realize her month moment.",
+            "deviceId": "73f9d6a5-db49-43e7-890e-b90454c8e7a8"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.628125+00:00"
+    },
+    {
+      "messageId": "cab51fbb-f814-4fea-9875-d032768fdfcc",
+      "publishTime": "2025-12-24T02:20:48.628131+00:00",
+      "payload": {
+        "sessionId": "71537671-28ae-4fa7-9705-e0620780f9e4",
+        "event": {
+          "verb": "POST",
+          "eventType": "Logout",
+          "applicationId": 79585,
+          "userId": "7cb89f70-2971-4eba-8a00-97a259057108",
+          "timestamp": "2025-12-24T02:20:48.628142+00:00",
+          "metadata": {
+            "ipAddress": "51.111.188.33",
+            "userAgent": "About reflect network stuff business father.\nMajor environment knowledge civil. Professional price type garden tell expert.\nTraining alone note fill doctor.",
+            "deviceId": "2417156b-8251-47ef-8359-7ce8d00bbdd6"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.628212+00:00"
+    },
+    {
+      "messageId": "8936d682-6b80-467a-83ec-eacef2ea7611",
+      "publishTime": "2025-12-24T02:20:48.628216+00:00",
+      "payload": {
+        "sessionId": "11bb5b42-8b1b-48e2-9ecd-495ad080680c",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Heartbeat",
+          "applicationId": 76165,
+          "userId": "1abbeccc-12ea-4c4d-a085-34ce6508beea",
+          "timestamp": "2025-12-24T02:20:48.628225+00:00",
+          "metadata": {
+            "ipAddress": "90.151.48.5",
+            "userAgent": "Couple media loss million easy standard. May teach discover approach rich research.\nChoice unit east character. Role center court dark during. Reason bar far.",
+            "deviceId": "eba04c09-0d04-4688-9438-89d75fff35e2"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.628290+00:00"
+    },
+    {
+      "messageId": "4a2f1391-30c0-4e5a-852c-04d692c643a4",
+      "publishTime": "2025-12-24T02:20:48.628295+00:00",
+      "payload": {
+        "sessionId": "27111e8c-51a1-4bf0-aded-cdb896819b0b",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "PageView",
+          "applicationId": 86042,
+          "userId": "bff95c69-094a-4176-9405-5079bd04317e",
+          "timestamp": "2025-12-24T02:20:48.628304+00:00",
+          "metadata": {
+            "ipAddress": "169.145.107.87",
+            "userAgent": "Budget catch everyone somebody itself at history list.\nArgue range need sit others method. Different despite never executive everyone four dinner idea.",
+            "deviceId": "7574b7a6-8d65-444e-bbb8-f2c75cd4fbc5"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.628434+00:00"
+    },
+    {
+      "messageId": "8336e0e8-e121-4023-b529-46d767572990",
+      "publishTime": "2025-12-24T02:20:48.628441+00:00",
+      "payload": {
+        "sessionId": "62816e53-3378-4cdd-b24d-9961debc0023",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 59615,
+          "userId": "fe1086b2-78b0-46a8-b81e-65ecc1fd6d03",
+          "timestamp": "2025-12-24T02:20:48.628454+00:00",
+          "metadata": {
+            "ipAddress": "179.19.96.23",
+            "userAgent": "Less really manage. Future other local story. Cup hard add admit she message carry.\nBlood against may consumer owner suddenly. Whether wide many into let.",
+            "deviceId": "5d21b36f-cf65-4887-9fc8-5563b61db2ce"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_drift_applied": [
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "9020237f-250f-412a-9a42-c188301055d0",
+      "publishTime": "2025-12-24T02:20:48.628545+00:00",
+      "payload": {
+        "sessionId": "09812908-8390-4082-8862-a3880d3c5d95",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 8596,
+          "userId": "b5f72000-6eac-4cd5-85a5-cd59ac05ceeb",
+          "timestamp": "2025-12-24T02:20:48.628555+00:00",
+          "metadata": {
+            "ipAddress": "212.0.240.63",
+            "userAgent": "Alone send often tend guess team phone. Should well knowledge job fall. Add beat dream. Fast paper city house win claim pass.",
+            "deviceId": "620f2c2a-2c61-4b7e-acf0-921421c512b0"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.628625+00:00"
+    },
+    {
+      "messageId": "21c73c52-d144-4d92-8acd-2da1dc92329c",
+      "publishTime": "2025-12-24T02:20:48.628630+00:00",
+      "payload": {
+        "sessionId": "3c0c6aee-a958-43f9-926f-6b70d38990df",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Click",
+          "applicationId": 62795,
+          "userId": "766ec5cd-7709-41f5-a7f0-4b830db7d0ab",
+          "timestamp": "2025-12-24T02:20:48.628639+00:00",
+          "metadata": {
+            "ipAddress": "140.176.188.72",
+            "userAgent": "Help onto chance should. Mouth bad time own money Mrs experience. Summer certain out will indicate anyone national.\nFirst whether learn often weight. Step station after gun involve.",
+            "deviceId": "8a56af33-c5c0-48e9-b347-69f603bf3447"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.628699+00:00"
+    },
+    {
+      "messageId": "eb5a432b-fb21-4463-bf3e-abd23a40ff81",
+      "publishTime": "2025-12-24T02:20:48.628703+00:00",
+      "payload": {
+        "sessionId": "e06d5bfd-c831-4de7-831f-925f91031018",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 43218,
+          "userId": "41912ba0-e478-431f-ad96-10436143865f",
+          "timestamp": "2025-12-24T02:20:48.632036+00:00",
+          "metadata": {
+            "ipAddress": "154.116.79.43",
+            "userAgent": "Under direction hope last oil year.\nCarry order least. Too section its whatever admit head bank. Radio cup car positive box field.",
+            "deviceId": "17c0b075-cef4-4c5d-827f-242bd264522b"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.632097+00:00"
+    },
+    {
+      "messageId": "42fbc7bb-16df-46a5-86a8-90fe346daea9",
+      "publishTime": "2025-12-24T02:20:48.632102+00:00",
+      "payload": {
+        "sessionId": "2601ebc7-e3d0-41f0-b839-2f6f1077cc1b",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 31533,
+          "userId": "6fefa95a-89d1-4624-a79c-671a679a4945",
+          "timestamp": "2025-12-24T02:20:48.632110+00:00",
+          "metadata": {
+            "ipAddress": "30.173.210.227",
+            "userAgent": "Speech cell east hair act system thank outside.\nSince although action interest attention tree attack. Every long have face role rather. Free program big successful production news.",
+            "deviceId": "2891eb65-3379-4ede-a83e-15094fb8f0fe"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.632167+00:00"
+    },
+    {
+      "messageId": "f5864307-0afa-4c6b-adfc-73548458aecc",
+      "publishTime": "2025-12-24T02:20:48.632172+00:00",
+      "payload": {
+        "sessionId": "6a80eb00-e00d-44d4-b3a6-a8df64440c77",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "PageView",
+          "applicationId": 77055,
+          "userId": "8dd00824-8618-46ac-befe-2f762a1deee8",
+          "timestamp": "2025-12-24T02:20:48.632180+00:00",
+          "metadata": {
+            "ipAddress": "167.245.129.65",
+            "userAgent": "Low scientist key understand generation feeling. Field world head dog town scientist writer.\nCatch two truth marriage. Mother box try physical. Expert century likely onto.",
+            "deviceId": "5a609f12-7911-45da-b76b-924968fa740f"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.632245+00:00"
+    },
+    {
+      "messageId": "f5864307-0afa-4c6b-adfc-73548458aecc",
+      "publishTime": "2025-12-24T02:20:48.632172+00:00",
+      "payload": {
+        "sessionId": "6a80eb00-e00d-44d4-b3a6-a8df64440c77",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "PageView",
+          "applicationId": 77055,
+          "userId": "8dd00824-8618-46ac-befe-2f762a1deee8",
+          "timestamp": "2025-12-24T02:20:48.632180+00:00",
+          "metadata": {
+            "ipAddress": "167.245.129.65",
+            "userAgent": "Low scientist key understand generation feeling. Field world head dog town scientist writer.\nCatch two truth marriage. Mother box try physical. Expert century likely onto.",
+            "deviceId": "5a609f12-7911-45da-b76b-924968fa740f"
+          }
+        }
+      },
+      "_batch_id": "c6019562",
+      "_generated_at": "2025-12-24T02:20:48.632245+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    }
+  ]
+}

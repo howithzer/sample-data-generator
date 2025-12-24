@@ -1,0 +1,281 @@
+{
+  "batch_id": "5d7ba144",
+  "record_count": 12,
+  "records": [
+    {
+      "messageId": "8edcf5e2-3dcf-47ac-8677-6ceeeb200418",
+      "publishTime": "2025-12-24T02:23:55.472416+00:00",
+      "payload": {
+        "sessionId": "2956d573-1db6-4655-8243-16578fd993f4",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 75634,
+          "userId": "9c9d5687-1ebb-436f-b091-3fb78b01829c",
+          "timestamp": "2025-12-24T02:23:55.472437+00:00",
+          "metadata": {
+            "ipAddress": "197.197.8.118",
+            "userAgent": "Tree bad campaign language audience. Student travel trade foot race TV owner. Statement second simple herself.",
+            "deviceId": "c9b2a839-d21a-4d49-a672-bde7e44bedb6"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.472531+00:00"
+    },
+    {
+      "messageId": "0ad862f3-0e03-48c5-9263-dadd749bf7ad",
+      "publishTime": "2025-12-24T02:23:55.472538+00:00",
+      "payload": {
+        "sessionId": "030e57a0-29e2-4efa-896d-d632d262a620",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Logout",
+          "applicationId": 24262,
+          "userId": "6a33fd21-a4c8-44ca-a5ef-ebf6d99256b6",
+          "timestamp": "2025-12-24T02:23:55.472548+00:00",
+          "metadata": {
+            "ipAddress": "216.200.53.190",
+            "userAgent": "Service choice deep national soldier scene. Trial policy usually official ability girl.\nThese hit perform there personal peace rate rest. Material professor pattern direction government I.",
+            "deviceId": "2f00a29a-445c-4363-9bca-b77e1deb1544"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.472612+00:00"
+    },
+    {
+      "messageId": "0e7becb1-41de-4f6e-b203-0f0d5ef0cbbc",
+      "publishTime": "2025-12-24T02:23:55.472617+00:00",
+      "payload": {
+        "sessionId": "90395672-1ae5-4560-8a3d-e89c6be371dd",
+        "event": {
+          "verb": "POST",
+          "eventType": "Logout",
+          "applicationId": 79841,
+          "userId": "414caf38-1098-4e23-9fa8-5f95e269f764",
+          "timestamp": "2025-12-24T02:23:55.472626+00:00",
+          "metadata": {
+            "ipAddress": "117.62.14.194",
+            "userAgent": "Security top station whatever language catch. Call serve it recent.\nRace another almost. Full reality spend democratic. Include practice product decide television unit.",
+            "deviceId": "3d7b5e09-684f-4745-ba04-4f90aade39af"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.472793+00:00"
+    },
+    {
+      "messageId": "2eb5b140-9ae9-4763-9fc2-12642166de79",
+      "publishTime": "2025-12-24T02:23:55.474946+00:00",
+      "payload": {
+        "sessionId": "52908fe2-de73-41a8-8017-cf3a43fd4b36",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 85726,
+          "userId": "a30b8c5c-1900-47a8-b1db-68efc8cef44d",
+          "timestamp": "2025-12-24T02:23:55.474991+00:00",
+          "metadata": {
+            "ipAddress": "188.39.253.122",
+            "userAgent": "Modern entire entire set knowledge.\nSpeak enough quite must indeed scene drive. Under direction occur gas south.",
+            "deviceId": "1225df58-9a7e-4f1c-8f07-d9cd089b5fb7"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475049+00:00"
+    },
+    {
+      "messageId": "2eb5b140-9ae9-4763-9fc2-12642166de79",
+      "publishTime": "2025-12-24T02:23:55.474946+00:00",
+      "payload": {
+        "sessionId": "52908fe2-de73-41a8-8017-cf3a43fd4b36",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 85726,
+          "userId": "a30b8c5c-1900-47a8-b1db-68efc8cef44d",
+          "timestamp": "2025-12-24T02:23:55.474991+00:00",
+          "metadata": {
+            "ipAddress": "188.39.253.122",
+            "userAgent": "Modern entire entire set knowledge.\nSpeak enough quite must indeed scene drive. Under direction occur gas south.",
+            "deviceId": "1225df58-9a7e-4f1c-8f07-d9cd089b5fb7"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475049+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "b48d6003-34b8-4e85-8ec2-932a76680a49",
+      "publishTime": "2025-12-24T02:23:55.475059+00:00",
+      "payload": {
+        "sessionId": "05a996bc-da81-4341-8ac9-a60443c10192",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 3363,
+          "userId": "2a775c12-a9c4-475e-b275-b85738c6e49a",
+          "timestamp": "2025-12-24T02:23:55.475067+00:00",
+          "metadata": {
+            "ipAddress": "14.229.1.21",
+            "userAgent": "Former prepare tonight small such. Kitchen tree man her. According expect nice organization.",
+            "deviceId": "51f90090-3e3d-458c-8e81-8c371f445a50"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475123+00:00"
+    },
+    {
+      "messageId": "5f026e15-1766-46ad-8edc-f654ff2b9f91",
+      "_generated_at": "2025-12-24T02:23:55.475196+00:00",
+      "payload": {
+        "sessionId": "e39b0548-8460-4947-b7f4-90ff09246bec",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 54078,
+          "userId": "1b7394c1-4330-494d-af6f-e7ae3d2c7d44",
+          "timestamp": "2025-12-24T02:23:55.475136+00:00",
+          "metadata": {
+            "ipAddress": "1.192.193.124",
+            "userAgent": "Mrs answer fill throughout better determine. Company each past computer player training. Edge claim again level.\nWhy whose remember role. Claim front can middle.",
+            "deviceId": "de499231-5cad-4683-9cfd-4f0ef4e225e9"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "publishTime": "2025-12-24T02:23:55.475127+00:00",
+      "_drift_applied": [
+        "reorder"
+      ]
+    },
+    {
+      "drift_test_col_8_hyvr": true,
+      "publishTime": "2025-12-24T02:23:55.475207+00:00",
+      "_batch_id": 8,
+      "messageId": "78894bec-3b4e-4fac-bdb9-1af9f7abcd6f",
+      "payload": {
+        "sessionId": "d52a5a35-215a-43fe-8c3c-55030dbac057",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "PageView",
+          "applicationId": 56753,
+          "userId": "16765950-e547-48b1-a49d-1975bd876566",
+          "timestamp": "2025-12-24T02:23:55.475215+00:00",
+          "metadata": {
+            "ipAddress": "66.5.77.149",
+            "userAgent": "Society game early. Growth trouble prepare.\nWindow really later since with meet. Short improve down same. Create matter case wide doctor. Show training according or couple piece everyone.",
+            "deviceId": "079390ac-4221-4ae8-8e9d-7b52c5388d02"
+          }
+        }
+      },
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "reorder",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "b3875d8e-b578-4e2d-8a83-9d0f93b9dda3",
+      "publishTime": "2025-12-24T02:23:55.475290+00:00",
+      "payload": {
+        "sessionId": "fa016270-745d-4b37-adcd-f939d6b43860",
+        "event": {
+          "verb": "POST",
+          "eventType": "Login",
+          "applicationId": 61351,
+          "userId": "9bcb42e1-dea7-49f9-b31a-19e1842d699e",
+          "timestamp": "2025-12-24T02:23:55.475300+00:00",
+          "metadata": {
+            "ipAddress": "28.51.142.236",
+            "userAgent": "Third evening never important.\nPast seat sport step buy. Daughter entire some. Practice who find range. More own mention contain and edge relate war.",
+            "deviceId": "71e486b5-a3a5-4031-b22b-4ed67c90dd5c"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475359+00:00",
+      "drift_test_col_9_dtqd": "86277",
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "b3875d8e-b578-4e2d-8a83-9d0f93b9dda3",
+      "publishTime": "2025-12-24T02:23:55.475290+00:00",
+      "payload": {
+        "sessionId": "fa016270-745d-4b37-adcd-f939d6b43860",
+        "event": {
+          "verb": "POST",
+          "eventType": "Login",
+          "applicationId": 61351,
+          "userId": "9bcb42e1-dea7-49f9-b31a-19e1842d699e",
+          "timestamp": "2025-12-24T02:23:55.475300+00:00",
+          "metadata": {
+            "ipAddress": "28.51.142.236",
+            "userAgent": "Third evening never important.\nPast seat sport step buy. Daughter entire some. Practice who find range. More own mention contain and edge relate war.",
+            "deviceId": "71e486b5-a3a5-4031-b22b-4ed67c90dd5c"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475359+00:00",
+      "drift_test_col_9_dtqd": "86277",
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "bfb93d6b-f25e-4639-ab36-3e6a19aba978",
+      "publishTime": "2025-12-24T02:23:55.475375+00:00",
+      "payload": {
+        "sessionId": "0a367a08-6ad7-442c-94be-b69ed202137b",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 1522,
+          "userId": "b745b4f8-e26f-484b-9a62-08255d2f19ec",
+          "timestamp": "2025-12-24T02:23:55.475382+00:00",
+          "metadata": {
+            "ipAddress": "17.186.191.119",
+            "userAgent": "Box wonder share represent customer. Leader truth stay pick campaign.",
+            "deviceId": "d027067d-621e-48b4-9f90-9d6f9f8c0d63"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475432+00:00"
+    },
+    {
+      "messageId": "5dd98482-8d54-4ecb-8c8e-b6c1775d2307",
+      "publishTime": "2025-12-24T02:23:55.475435+00:00",
+      "payload": {
+        "sessionId": "cc6cc277-c005-4b14-b8ab-f2bf53cc9d70",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 57333,
+          "userId": "0452491c-c00f-4261-964f-a34d818883a6",
+          "timestamp": "2025-12-24T02:23:55.475443+00:00",
+          "metadata": {
+            "ipAddress": "128.147.16.28",
+            "userAgent": "Might himself week enough. Ground significant since prepare.",
+            "deviceId": "32560b80-8067-4d13-9483-a91df08e8c8a"
+          }
+        }
+      },
+      "_batch_id": "5d7ba144",
+      "_generated_at": "2025-12-24T02:23:55.475488+00:00"
+    }
+  ]
+}

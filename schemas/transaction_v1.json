@@ -1,0 +1,63 @@
+{
+    "name": "transaction_v1",
+    "version": "1.0.0",
+    "description": "Transaction schema for stress testing",
+    "fields": [
+        {
+            "name": "transaction_id",
+            "type": "uuid"
+        },
+        {
+            "name": "user_id",
+            "type": "uuid"
+        },
+        {
+            "name": "amount",
+            "type": "decimal"
+        },
+        {
+            "name": "currency",
+            "type": "currency_code"
+        },
+        {
+            "name": "merchant_name",
+            "type": "company"
+        },
+        {
+            "name": "merchant_category",
+            "type": "string"
+        },
+        {
+            "name": "transaction_type",
+            "type": "string"
+        },
+        {
+            "name": "status",
+            "type": "string"
+        },
+        {
+            "name": "user_email",
+            "type": "email"
+        },
+        {
+            "name": "user_name",
+            "type": "name"
+        },
+        {
+            "name": "ip_address",
+            "type": "ipv4"
+        },
+        {
+            "name": "device_id",
+            "type": "uuid"
+        },
+        {
+            "name": "location",
+            "type": "address"
+        },
+        {
+            "name": "timestamp",
+            "type": "timestamp"
+        }
+    ]
+}

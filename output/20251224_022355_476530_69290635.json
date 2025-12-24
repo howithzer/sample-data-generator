@@ -1,0 +1,274 @@
+{
+  "batch_id": "69290635",
+  "record_count": 12,
+  "records": [
+    {
+      "messageId": "0618f760-c7b9-48fe-8187-89b5fbcffa9f",
+      "publishTime": "2025-12-24T02:23:55.469083+00:00",
+      "payload": {
+        "sessionId": "49f8d657-0a63-483f-b68f-1c9782b03097",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 68110,
+          "userId": "b433b77d-0b79-41a0-84f6-e5117a0df3e7",
+          "timestamp": "2025-12-24T02:23:55.469256+00:00",
+          "metadata": {
+            "ipAddress": "151.167.28.94",
+            "userAgent": "Amount require significant section away everyone part. Way local could expect continue production.\nCitizen figure hand national focus. Similar draw site million east floor.",
+            "deviceId": "eb436f46-f321-4a4d-9ecb-301048866267"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.471736+00:00",
+      "drift_test_col_1_txmv": 8,
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ]
+    },
+    {
+      "drift_test_col_2_hopn": 9182.08,
+      "_generated_at": "2025-12-24T02:23:55.471866+00:00",
+      "payload": {
+        "sessionId": "f56b54b7-abb9-40d5-aae3-580c042cd593",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 2210,
+          "userId": "51930983-37a4-489e-a7a7-e2f90d458dc5",
+          "timestamp": "2025-12-24T02:23:55.471795+00:00",
+          "metadata": {
+            "ipAddress": "130.133.77.131",
+            "userAgent": "Control serious rate special cold door. Dinner rock them region sing hand strategy.\nThere southern lose throw. Leave field though Congress buy nor expect.",
+            "deviceId": "0dff86f1-7bd0-46ea-b9b4-f4ba0d305a3e"
+          }
+        }
+      },
+      "messageId": "7a4408db-8d47-47ec-ab99-7afd44eca9bf",
+      "_batch_id": "69290635",
+      "publishTime": "2025-12-24T02:23:55.471779+00:00",
+      "_drift_applied": [
+        "add_column",
+        "reorder"
+      ]
+    },
+    {
+      "messageId": "795eb13a-de45-4e59-a95e-c182d1ced39a",
+      "publishTime": "2025-12-24T02:23:55.471891+00:00",
+      "payload": {
+        "sessionId": "c08e044c-78ac-4de7-8b9a-27eeb47bcc4f",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 3487,
+          "userId": "d7ce9f6a-ffa6-4bda-8e55-145cdf79c5d7",
+          "timestamp": "2025-12-24T02:23:55.471901+00:00",
+          "metadata": {
+            "ipAddress": "172.96.101.196",
+            "userAgent": "Medical but budget third chair glass. Interesting wonder total such. Successful catch player federal natural operation financial.",
+            "deviceId": "b5da41dc-2d98-4aa4-919f-93c53e2c4658"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.471969+00:00"
+    },
+    {
+      "messageId": "68034dd6-7e4b-430e-99da-babffd266639",
+      "publishTime": "2025-12-24T02:23:55.471975+00:00",
+      "payload": {
+        "sessionId": "1636145b-d96a-40d4-85ac-00461c9fba44",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Heartbeat",
+          "applicationId": 32484,
+          "userId": "f2b02890-1bbf-424c-ad8e-9133726ccac5",
+          "timestamp": "2025-12-24T02:23:55.471984+00:00",
+          "metadata": {
+            "ipAddress": "72.164.152.110",
+            "userAgent": "Meeting state human behavior. Form now president model provide. Explain strategy magazine economic performance interesting behind.",
+            "deviceId": "00af94cf-bec8-4acb-b59b-6bdc467e6ce4"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.472047+00:00"
+    },
+    {
+      "messageId": "d27f646f-e6ba-4727-b12b-baa9a8352838",
+      "publishTime": "2025-12-24T02:23:55.472052+00:00",
+      "payload": {
+        "sessionId": "92155d45-d2b0-499d-aa98-3f189546567a",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Click",
+          "applicationId": 47564,
+          "userId": "7296b613-221f-4496-a092-2c16c64aa672",
+          "timestamp": "2025-12-24T02:23:55.472061+00:00",
+          "metadata": {
+            "ipAddress": "189.248.94.94",
+            "userAgent": "Quickly phone new seem stock at. Family machine partner protect student morning article. Community school cost either.",
+            "deviceId": "f16185b2-2494-4d01-9da3-aefa4a50cd42"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.472118+00:00"
+    },
+    {
+      "messageId": "ec0f81c9-c31f-4732-bf8e-95b4c4c800bc",
+      "publishTime": "2025-12-24T02:23:55.472128+00:00",
+      "payload": {
+        "sessionId": "cb8ca5a0-b6ee-47c6-b7d5-e892d1673751",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Transaction",
+          "applicationId": 86663,
+          "userId": "6531af92-2494-4961-8be4-25a2b53dbfd7",
+          "timestamp": "2025-12-24T02:23:55.472137+00:00",
+          "metadata": {
+            "ipAddress": "212.117.127.246",
+            "userAgent": "Up hot often impact most recent. Fight PM security may. Open hear night arm husband treatment at.\nAgency pressure send possible.",
+            "deviceId": "4bff5bb7-62ae-478f-b7c9-7ed9187a54b1"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.472194+00:00"
+    },
+    {
+      "messageId": "740acf5d-44df-4dc2-a126-247f510b1249",
+      "publishTime": "2025-12-24T02:23:55.472206+00:00",
+      "payload": {
+        "sessionId": "e3d41390-190a-49de-8d75-0baf8acffa70",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 56055,
+          "userId": "198784e8-16de-4327-b4e2-4b807497ec40",
+          "timestamp": "2025-12-24T02:23:55.473120+00:00",
+          "metadata": {
+            "ipAddress": "161.26.180.246",
+            "userAgent": "Probably toward we claim throw. Offer heavy change close seat fast study. College movement live this arrive.\nOur sell let relationship half there very.",
+            "deviceId": "e404f912-2dcd-4470-8a11-fe57571467e4"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.473210+00:00"
+    },
+    {
+      "messageId": "740acf5d-44df-4dc2-a126-247f510b1249",
+      "publishTime": "2025-12-24T02:23:55.472206+00:00",
+      "payload": {
+        "sessionId": "e3d41390-190a-49de-8d75-0baf8acffa70",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 56055,
+          "userId": "198784e8-16de-4327-b4e2-4b807497ec40",
+          "timestamp": "2025-12-24T02:23:55.473120+00:00",
+          "metadata": {
+            "ipAddress": "161.26.180.246",
+            "userAgent": "Probably toward we claim throw. Offer heavy change close seat fast study. College movement live this arrive.\nOur sell let relationship half there very.",
+            "deviceId": "e404f912-2dcd-4470-8a11-fe57571467e4"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.473210+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "740acf5d-44df-4dc2-a126-247f510b1249",
+      "publishTime": "2025-12-24T02:23:55.472206+00:00",
+      "payload": {
+        "sessionId": "e3d41390-190a-49de-8d75-0baf8acffa70",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 56055,
+          "userId": "198784e8-16de-4327-b4e2-4b807497ec40",
+          "timestamp": "2025-12-24T02:23:55.473120+00:00",
+          "metadata": {
+            "ipAddress": "161.26.180.246",
+            "userAgent": "Probably toward we claim throw. Offer heavy change close seat fast study. College movement live this arrive.\nOur sell let relationship half there very.",
+            "deviceId": "e404f912-2dcd-4470-8a11-fe57571467e4"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.473210+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "2a01716a-425f-4f0a-bf52-f151b5914b4b",
+      "publishTime": "2025-12-24T02:23:55.473223+00:00",
+      "payload": {
+        "sessionId": "ae476826-a3b4-4fae-aa0e-226afe9bd51e",
+        "event": {
+          "verb": "POST",
+          "eventType": "Login",
+          "applicationId": 4492,
+          "userId": "5688e36e-ae87-43a8-bc65-8e5247d4385c",
+          "timestamp": "2025-12-24T02:23:55.473232+00:00",
+          "metadata": {
+            "ipAddress": "22.166.243.113",
+            "userAgent": "Fact front space together now. Away degree difficult room.\nCommercial run west upon lead structure. Blood memory range learn something.",
+            "deviceId": "9d72c487-4d83-435d-9627-b0660e68bcc0"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_drift_applied": [
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "c9827db7-c423-4530-b9fc-e4ac80a0fa75",
+      "publishTime": "2025-12-24T02:23:55.473302+00:00",
+      "payload": {
+        "sessionId": "b6a8e915-5bb1-427c-bd49-bea9db998c44",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 25233,
+          "userId": "21d1a1c1-b325-4ed3-b952-ca3cd2c015b0",
+          "timestamp": "2025-12-24T02:23:55.473311+00:00",
+          "metadata": {
+            "ipAddress": "118.149.173.197",
+            "userAgent": "Education part live. Meet dream over figure walk fast environment. Decision month lawyer space.\nPerform although interest top well. Along listen beautiful. Wait reality season shake billion respond.",
+            "deviceId": "391b57a0-aa34-43fa-880d-5712faf6d433"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.473378+00:00"
+    },
+    {
+      "messageId": "8dfeac3a-a9da-44c7-b588-850c7d2a39eb",
+      "publishTime": "2025-12-24T02:23:55.474001+00:00",
+      "payload": {
+        "sessionId": "6c520c0f-aa33-4ef7-9a6d-6f8443e4d9a8",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Click",
+          "applicationId": 24198,
+          "userId": "e3f602bb-a5b6-4ad8-aa57-c651276daf54",
+          "timestamp": "2025-12-24T02:23:55.474013+00:00",
+          "metadata": {
+            "ipAddress": "126.73.136.188",
+            "userAgent": "Them share yet dark. Pressure water this performance.\nWhat democratic economy region catch western. Agree significant enjoy national federal debate nice.",
+            "deviceId": "ca211ffe-fb08-4ba8-a13f-45a81b781925"
+          }
+        }
+      },
+      "_batch_id": "69290635",
+      "_generated_at": "2025-12-24T02:23:55.474075+00:00"
+    }
+  ]
+}

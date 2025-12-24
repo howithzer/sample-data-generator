@@ -1,0 +1,243 @@
+{
+  "batch_id": "e1753247",
+  "record_count": 11,
+  "records": [
+    {
+      "messageId": "72bc2797-550e-4ef3-9f6f-0cfd591fbbc2",
+      "publishTime": "2025-12-24T02:23:43.890847+00:00",
+      "payload": {
+        "sessionId": "0d66d939-c312-4fd1-9e0c-7ee537949564",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "PageView",
+          "applicationId": 42267,
+          "userId": "88a12d87-7268-4525-a931-2c5598d3ea3b",
+          "timestamp": "2025-12-24T02:23:43.890858+00:00",
+          "metadata": {
+            "ipAddress": "81.229.56.241",
+            "userAgent": "Really government poor soon consumer leg practice be. This hour senior others.\nSomething range case project meeting three. Event southern line view.",
+            "deviceId": "cef0d9ae-c83b-43c0-945e-ebf791beca11"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.890923+00:00"
+    },
+    {
+      "messageId": "4d0bf5f7-23d3-4e54-97d3-54a23be6c0cf",
+      "publishTime": "2025-12-24T02:23:43.890929+00:00",
+      "payload": {
+        "sessionId": "4ca0df25-e80f-4a37-8ff6-3b2a3ef07e1e",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 2035,
+          "userId": "891e8714-ef18-4182-bf21-28656cdd83ec",
+          "timestamp": "2025-12-24T02:23:43.890938+00:00",
+          "metadata": {
+            "ipAddress": "170.33.198.236",
+            "userAgent": "Environmental necessary agent glass common. Community film agent tree show avoid really. Speech peace degree add I.\nExist another fear protect turn. Owner great station image energy today and.",
+            "deviceId": "6de68d07-8de9-4da0-a160-40cc586e71e8"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891007+00:00"
+    },
+    {
+      "messageId": "f94d8eae-a06a-43b0-822c-ad780a2c9c4c",
+      "publishTime": "2025-12-24T02:23:43.891011+00:00",
+      "payload": {
+        "sessionId": "80622b39-d140-4edc-9349-96fa3bc42eb6",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 60532,
+          "userId": "c07b0a47-9b4c-4e02-a974-3adf6c53edb9",
+          "timestamp": "2025-12-24T02:23:43.891020+00:00",
+          "metadata": {
+            "ipAddress": "181.113.202.178",
+            "userAgent": "View usually light end right street behavior. Pull with style I point.\nPoor blue difficult industry choose however. May picture dog. Investment test level pretty.",
+            "deviceId": "615f4b6a-810c-47cd-9e9e-26013a182330"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891082+00:00"
+    },
+    {
+      "messageId": "fc740ba7-0db9-4ec9-accd-df39c8be66a3",
+      "publishTime": "2025-12-24T02:23:43.891086+00:00",
+      "payload": {
+        "sessionId": "f19ec7ce-878c-4fa3-88a2-37be17808ec2",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Click",
+          "applicationId": 83785,
+          "userId": "9cba1bfb-7ff3-4f85-9904-5f38d2afd32d",
+          "timestamp": "2025-12-24T02:23:43.891095+00:00",
+          "metadata": {
+            "ipAddress": "82.190.9.36",
+            "userAgent": "Anyone side sister size. Require computer believe news too case establish hope.\nEnough so purpose bit direction else. Nearly public listen increase agency they let.",
+            "deviceId": "10f6fc7f-9fba-4471-8363-005dd6126bea"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891154+00:00"
+    },
+    {
+      "messageId": "fbb577c8-e32d-443b-91b9-3ac066512f01",
+      "publishTime": "2025-12-24T02:23:43.891158+00:00",
+      "payload": {
+        "sessionId": "d8a1046a-0c24-4f3c-9d56-2faf8dc65a43",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 73664,
+          "userId": "e3f8bc0d-a76a-446f-9b2d-e8ea15009190",
+          "timestamp": "2025-12-24T02:23:43.891166+00:00",
+          "metadata": {
+            "ipAddress": "165.44.114.254",
+            "userAgent": "Garden rather compare recognize indeed daughter clear resource. Hit character value vote industry. Huge morning cell in newspaper.",
+            "deviceId": "e7c5e267-6b49-472c-936c-b773945129b7"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891221+00:00"
+    },
+    {
+      "messageId": "fbb577c8-e32d-443b-91b9-3ac066512f01",
+      "publishTime": "2025-12-24T02:23:43.891158+00:00",
+      "payload": {
+        "sessionId": "d8a1046a-0c24-4f3c-9d56-2faf8dc65a43",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 73664,
+          "userId": "e3f8bc0d-a76a-446f-9b2d-e8ea15009190",
+          "timestamp": "2025-12-24T02:23:43.891166+00:00",
+          "metadata": {
+            "ipAddress": "165.44.114.254",
+            "userAgent": "Garden rather compare recognize indeed daughter clear resource. Hit character value vote industry. Huge morning cell in newspaper.",
+            "deviceId": "e7c5e267-6b49-472c-936c-b773945129b7"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891221+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "f5c61ba7-8027-4e07-99e8-1cbfb2d1b58a",
+      "publishTime": "2025-12-24T02:23:43.891230+00:00",
+      "payload": {
+        "sessionId": "325408c3-ce58-48ed-87dc-45d80b0e8144",
+        "event": {
+          "verb": "POST",
+          "eventType": "Login",
+          "applicationId": 53365,
+          "userId": "37d8f828-45b9-402d-92e6-86e93e2c16b3",
+          "timestamp": "2025-12-24T02:23:43.891238+00:00",
+          "metadata": {
+            "ipAddress": "223.241.172.73",
+            "userAgent": "Hundred may well.\nPeace modern blood. Paper sound senior sometimes rest.",
+            "deviceId": "b14f191c-666c-4be3-8780-edd3b7b0f494"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891290+00:00"
+    },
+    {
+      "messageId": "535616ec-a1a3-4139-b835-fb39c00b3177",
+      "publishTime": "2025-12-24T02:23:43.891298+00:00",
+      "payload": {
+        "sessionId": "68a9fe1d-5087-42d9-bb54-893d54801059",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 40935,
+          "userId": "775311d0-1f4f-41fd-a8fe-35c7b706d922",
+          "timestamp": "2025-12-24T02:23:43.891305+00:00",
+          "metadata": {
+            "ipAddress": "142.79.21.117",
+            "userAgent": "Include way admit follow. Wind low which professor west truth.\nHeavy Mr history event. Dog memory live. Travel another we.\nMinute enter will early environmental. Require phone front drug.",
+            "deviceId": "9bb76dd0-fb4c-413b-a21e-f2ac88ea54ac"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891373+00:00",
+      "drift_test_col_12_pmkz": 7377.7,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "89935405-46cc-44f6-8814-a664beebb59b",
+      "publishTime": "2025-12-24T02:23:43.891383+00:00",
+      "payload": {
+        "sessionId": "6b3df79c-b598-4926-ae16-febf793cad02",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 33800,
+          "userId": "68ea9719-e756-47ea-b6e8-3a2459d5a547",
+          "timestamp": "2025-12-24T02:23:43.891391+00:00",
+          "metadata": {
+            "ipAddress": "45.118.76.85",
+            "userAgent": "Analysis treat attorney question east plan focus available. Mrs beautiful pick quickly data appear down.",
+            "deviceId": "273dd2cf-671e-4864-9eeb-ec71b4ab41f9"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891438+00:00"
+    },
+    {
+      "messageId": "9cfb9bbd-80b2-4e87-989a-e2491b1720c3",
+      "publishTime": "2025-12-24T02:23:43.891441+00:00",
+      "payload": {
+        "sessionId": "592b2435-f7c5-444c-ac55-5dba59e24200",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Transaction",
+          "applicationId": 8888,
+          "userId": "7420607d-01e0-41a4-9429-e24ebe50a410",
+          "timestamp": "2025-12-24T02:23:43.891449+00:00",
+          "metadata": {
+            "ipAddress": "207.30.104.216",
+            "userAgent": "In unit second never watch. Deep along seven air window teacher.\nCourse prepare particularly thousand stage. Try hear field measure. Itself so their war.",
+            "deviceId": "6edd16ff-3f5f-4170-8651-2af4c908dcd7"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891516+00:00"
+    },
+    {
+      "messageId": "960703a9-ed90-40c6-a267-4a3f1354fdc0",
+      "publishTime": "2025-12-24T02:23:43.891520+00:00",
+      "payload": {
+        "sessionId": "9fa98b1b-7390-4727-849f-48f43ac68767",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 84032,
+          "userId": "532f9c72-6a7c-4f90-96c9-5196cae8843a",
+          "timestamp": "2025-12-24T02:23:43.891531+00:00",
+          "metadata": {
+            "ipAddress": "186.213.57.81",
+            "userAgent": "Social sell talk doctor we that model. Year stay beyond science those by expert.\nDark without produce several term. Entire road culture major.",
+            "deviceId": "a4ac88b3-fbfb-4693-8dad-656d013b6436"
+          }
+        }
+      },
+      "_batch_id": "e1753247",
+      "_generated_at": "2025-12-24T02:23:43.891590+00:00"
+    }
+  ]
+}

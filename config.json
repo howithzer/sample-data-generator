@@ -1,0 +1,29 @@
+{
+  "run_mode": "local",
+  "log_format": "user",
+  "log_level": "INFO",
+  "sink_type": "console",
+  "concurrency": 5,
+  "batch_size": 10,
+  "total_records": 50,
+  "metrics_interval_seconds": 5,
+  "schema_config": {
+    "base_schema": "schemas/event_message_v2.json",
+    "drift": {
+      "enabled": true,
+      "percentage": 0.5,
+      "add_columns": true,
+      "delete_columns": true,
+      "reorder_columns": true,
+      "type_changes": true
+    },
+    "duplicates": {
+      "enabled": true,
+      "percentage": 0.2,
+      "max_duplicates": 3
+    }
+  },
+  "file_config": {
+    "output_dir": "./output"
+  }
+}

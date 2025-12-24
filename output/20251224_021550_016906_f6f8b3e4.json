@@ -1,0 +1,421 @@
+{
+  "batch_id": "f6f8b3e4",
+  "record_count": 18,
+  "records": [
+    {
+      "messageId": "de6a1cff-ce35-4940-ab4e-742916f0d4d7",
+      "publishTime": "2025-12-24T02:15:50.014605+00:00",
+      "payload": {
+        "sessionId": "6d82ca45-d81d-4c65-8e2e-00a5534c0efc",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 15065,
+          "userId": "5d35908c-5a91-4022-8d16-bb5190b6067d",
+          "timestamp": "2025-12-24T02:15:50.014615+00:00",
+          "metadata": {
+            "ipAddress": "180.219.24.158",
+            "userAgent": "Mrs site difficult trade require. Stand open south answer image myself billion. View program response.\nEspecially benefit note father. Worry program sister drop.\nSupport image as wonder argue.",
+            "deviceId": "57ff746c-69e0-4136-a1e2-3f54a9dd999c"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.014683+00:00"
+    },
+    {
+      "messageId": "667202c3-1ccc-4d09-ad15-84fce9d3c53d",
+      "publishTime": "2025-12-24T02:15:50.014688+00:00",
+      "payload": {
+        "sessionId": "7f4e4a61-418d-4a16-931e-d2ffd467ea87",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 48444,
+          "userId": "960202c0-aa9c-41cb-99cb-05dbe7004f05",
+          "timestamp": "2025-12-24T02:15:50.014696+00:00",
+          "metadata": {
+            "ipAddress": "191.51.180.138",
+            "userAgent": "Hope board woman economic. Issue discussion how draw there. Cup significant fall.\nBegin mouth full success believe behavior source. Type likely but red.",
+            "deviceId": "32736914-5752-4919-8279-068196e93158"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.014761+00:00"
+    },
+    {
+      "messageId": "63a50d42-f0e1-4049-b4dd-5b8064d3dea4",
+      "publishTime": "2025-12-24T02:15:50.014765+00:00",
+      "payload": {
+        "sessionId": "1536ed87-37bc-4dbb-8e5e-eaf02583ef78",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Heartbeat",
+          "applicationId": 50173,
+          "userId": "1919e04b-49d1-47cc-9d30-90f4624c2b0b",
+          "timestamp": "2025-12-24T02:15:50.014773+00:00",
+          "metadata": {
+            "ipAddress": "87.108.26.9",
+            "userAgent": "Community goal picture knowledge. Culture born work pressure high.\nMatter room speak assume no. Natural reveal positive drop middle.",
+            "deviceId": "1adb4906-386e-46bd-b57d-4b3923b2db09"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": 32,
+      "_drift_applied": [
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "6a23388f-fed6-4dc1-b85d-de09f830215f",
+      "publishTime": "2025-12-24T02:15:50.014850+00:00",
+      "payload": {
+        "sessionId": "9668bdeb-abca-40d3-a89f-86cb0c9c3001",
+        "event": {
+          "verb": "PUT",
+          "eventType": "PageView",
+          "applicationId": 35896,
+          "userId": "6caa49e1-a39d-4c27-b7ff-6c5a895219c4",
+          "timestamp": "2025-12-24T02:15:50.014858+00:00",
+          "metadata": {
+            "ipAddress": "172.21.140.2",
+            "userAgent": "Side future forward collection. Area value until head guy use remain century.\nOver analysis new contain. Pm soldier church national here.",
+            "deviceId": "5fb88400-54e1-479a-bb61-0f2974180a94"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_drift_applied": [
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "70ae9ac9-3aea-4ad3-ab9b-8a7fba9e1671",
+      "publishTime": "2025-12-24T02:15:50.014924+00:00",
+      "payload": {
+        "sessionId": "34b7eb48-c8de-477a-9572-4f6cebe0ac96",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 75551,
+          "userId": "202e7598-163d-47ee-b94b-20245bb2acb1",
+          "timestamp": "2025-12-24T02:15:50.014932+00:00",
+          "metadata": {
+            "ipAddress": "199.69.161.249",
+            "userAgent": "Not try worry. Five ahead everything join result character contain rate.\nFactor shoulder watch pull nature source beat. Different enter in seven see.",
+            "deviceId": "385579b4-6d11-4dff-bcf7-9fafb5e3f709"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.014993+00:00"
+    },
+    {
+      "messageId": "17fb3dbf-4fae-4056-bf88-e11505d8fe13",
+      "publishTime": "2025-12-24T02:15:50.014997+00:00",
+      "payload": {
+        "sessionId": "5dfd3bf5-cd20-49aa-bfe9-8c29c4061704",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 93018,
+          "userId": "f7fbde2b-7813-48be-8d25-ed1f5f5302b3",
+          "timestamp": "2025-12-24T02:15:50.015005+00:00",
+          "metadata": {
+            "ipAddress": "24.11.190.206",
+            "userAgent": "Build finish miss support couple local arrive. Trial hot good with our rule moment strategy. Past manager table mother under reduce now many.\nBad check born.",
+            "deviceId": "536b80c1-c857-4ccd-adf1-5d60a5c5af19"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "drift_test_col_6_ppri": 88613,
+      "_drift_applied": [
+        "add_column",
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "ccfab470-c4b1-45df-b562-96184cd4afab",
+      "publishTime": "2025-12-24T02:15:50.015072+00:00",
+      "payload": {
+        "sessionId": "bc03ca07-a9e8-403c-b9fc-84ba98f03a63",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 80680,
+          "userId": "fcac1e69-e4ab-470c-a85a-0898e3770c06",
+          "timestamp": "2025-12-24T02:15:50.015081+00:00",
+          "metadata": {
+            "ipAddress": "180.90.219.231",
+            "userAgent": "Yet continue future company cup pull. Ground technology medical note. Yourself sing leg hold.",
+            "deviceId": "9d5f237a-d0a6-4351-9ede-77468668fb73"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:15:50.015131+00:00",
+      "_drift_applied": [
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "ccfab470-c4b1-45df-b562-96184cd4afab",
+      "publishTime": "2025-12-24T02:15:50.015072+00:00",
+      "payload": {
+        "sessionId": "bc03ca07-a9e8-403c-b9fc-84ba98f03a63",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 80680,
+          "userId": "fcac1e69-e4ab-470c-a85a-0898e3770c06",
+          "timestamp": "2025-12-24T02:15:50.015081+00:00",
+          "metadata": {
+            "ipAddress": "180.90.219.231",
+            "userAgent": "Yet continue future company cup pull. Ground technology medical note. Yourself sing leg hold.",
+            "deviceId": "9d5f237a-d0a6-4351-9ede-77468668fb73"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:15:50.015131+00:00",
+      "_drift_applied": [
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "ccfab470-c4b1-45df-b562-96184cd4afab",
+      "publishTime": "2025-12-24T02:15:50.015072+00:00",
+      "payload": {
+        "sessionId": "bc03ca07-a9e8-403c-b9fc-84ba98f03a63",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 80680,
+          "userId": "fcac1e69-e4ab-470c-a85a-0898e3770c06",
+          "timestamp": "2025-12-24T02:15:50.015081+00:00",
+          "metadata": {
+            "ipAddress": "180.90.219.231",
+            "userAgent": "Yet continue future company cup pull. Ground technology medical note. Yourself sing leg hold.",
+            "deviceId": "9d5f237a-d0a6-4351-9ede-77468668fb73"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:15:50.015131+00:00",
+      "_drift_applied": [
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "ccfab470-c4b1-45df-b562-96184cd4afab",
+      "publishTime": "2025-12-24T02:15:50.015072+00:00",
+      "payload": {
+        "sessionId": "bc03ca07-a9e8-403c-b9fc-84ba98f03a63",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 80680,
+          "userId": "fcac1e69-e4ab-470c-a85a-0898e3770c06",
+          "timestamp": "2025-12-24T02:15:50.015081+00:00",
+          "metadata": {
+            "ipAddress": "180.90.219.231",
+            "userAgent": "Yet continue future company cup pull. Ground technology medical note. Yourself sing leg hold.",
+            "deviceId": "9d5f237a-d0a6-4351-9ede-77468668fb73"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:15:50.015131+00:00",
+      "_drift_applied": [
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "2e461461-2b87-46b2-a482-43befd3c888b",
+      "publishTime": "2025-12-24T02:15:50.015153+00:00",
+      "payload": {
+        "sessionId": "122ee634-0980-4eaa-ad2b-a65774cbe999",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Heartbeat",
+          "applicationId": 41591,
+          "userId": "fe5fac76-9d12-4d1e-983e-703933d95c12",
+          "timestamp": "2025-12-24T02:15:50.015161+00:00",
+          "metadata": {
+            "ipAddress": "23.149.113.249",
+            "userAgent": "Natural about mother minute other hear. Will line our consider smile then reach. Available peace before far.\nAccording son seek thus sit half. Off create college sport law reach economic.",
+            "deviceId": "c33251c8-18b4-41b2-a2d6-5fb670348a7e"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015223+00:00"
+    },
+    {
+      "messageId": "1a90736d-741b-4151-bfb3-2fb19918129f",
+      "publishTime": "2025-12-24T02:15:50.015227+00:00",
+      "payload": {
+        "sessionId": "201a2602-f87f-45f9-a725-64fd2a2e1f04",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 24884,
+          "userId": "e613ca3e-d9ef-4c74-8149-30a7915f43d9",
+          "timestamp": "2025-12-24T02:15:50.015339+00:00",
+          "metadata": {
+            "ipAddress": "141.189.192.102",
+            "userAgent": "Impact news majority answer degree challenge. House gun hope artist skin. Commercial think simply discover five others south.\nGive report film for. Matter which term green industry also control.",
+            "deviceId": "d0d3a53c-2283-4c68-9322-4fb669714c0d"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015411+00:00"
+    },
+    {
+      "messageId": "1a90736d-741b-4151-bfb3-2fb19918129f",
+      "publishTime": "2025-12-24T02:15:50.015227+00:00",
+      "payload": {
+        "sessionId": "201a2602-f87f-45f9-a725-64fd2a2e1f04",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 24884,
+          "userId": "e613ca3e-d9ef-4c74-8149-30a7915f43d9",
+          "timestamp": "2025-12-24T02:15:50.015339+00:00",
+          "metadata": {
+            "ipAddress": "141.189.192.102",
+            "userAgent": "Impact news majority answer degree challenge. House gun hope artist skin. Commercial think simply discover five others south.\nGive report film for. Matter which term green industry also control.",
+            "deviceId": "d0d3a53c-2283-4c68-9322-4fb669714c0d"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015411+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "1a90736d-741b-4151-bfb3-2fb19918129f",
+      "publishTime": "2025-12-24T02:15:50.015227+00:00",
+      "payload": {
+        "sessionId": "201a2602-f87f-45f9-a725-64fd2a2e1f04",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 24884,
+          "userId": "e613ca3e-d9ef-4c74-8149-30a7915f43d9",
+          "timestamp": "2025-12-24T02:15:50.015339+00:00",
+          "metadata": {
+            "ipAddress": "141.189.192.102",
+            "userAgent": "Impact news majority answer degree challenge. House gun hope artist skin. Commercial think simply discover five others south.\nGive report film for. Matter which term green industry also control.",
+            "deviceId": "d0d3a53c-2283-4c68-9322-4fb669714c0d"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015411+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "dd30b5a5-c6d0-4dd5-b67d-87ee65b70222",
+      "publishTime": "2025-12-24T02:15:50.015423+00:00",
+      "payload": {
+        "sessionId": "4016ab3e-dc54-4ae3-b831-5470efae4784",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 47798,
+          "userId": "afa382a3-55e4-4be8-83d3-c15b61442df9",
+          "timestamp": "2025-12-24T02:15:50.015432+00:00",
+          "metadata": {
+            "ipAddress": "222.62.145.30",
+            "userAgent": "Finally consider build attorney nature record ever. Year while material century order me serve.",
+            "deviceId": "743420d3-84e1-496d-b638-e8f5aa0e5cb8"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015487+00:00"
+    },
+    {
+      "messageId": "dd30b5a5-c6d0-4dd5-b67d-87ee65b70222",
+      "publishTime": "2025-12-24T02:15:50.015423+00:00",
+      "payload": {
+        "sessionId": "4016ab3e-dc54-4ae3-b831-5470efae4784",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 47798,
+          "userId": "afa382a3-55e4-4be8-83d3-c15b61442df9",
+          "timestamp": "2025-12-24T02:15:50.015432+00:00",
+          "metadata": {
+            "ipAddress": "222.62.145.30",
+            "userAgent": "Finally consider build attorney nature record ever. Year while material century order me serve.",
+            "deviceId": "743420d3-84e1-496d-b638-e8f5aa0e5cb8"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015487+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "dd30b5a5-c6d0-4dd5-b67d-87ee65b70222",
+      "publishTime": "2025-12-24T02:15:50.015423+00:00",
+      "payload": {
+        "sessionId": "4016ab3e-dc54-4ae3-b831-5470efae4784",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 47798,
+          "userId": "afa382a3-55e4-4be8-83d3-c15b61442df9",
+          "timestamp": "2025-12-24T02:15:50.015432+00:00",
+          "metadata": {
+            "ipAddress": "222.62.145.30",
+            "userAgent": "Finally consider build attorney nature record ever. Year while material century order me serve.",
+            "deviceId": "743420d3-84e1-496d-b638-e8f5aa0e5cb8"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015487+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "dd30b5a5-c6d0-4dd5-b67d-87ee65b70222",
+      "publishTime": "2025-12-24T02:15:50.015423+00:00",
+      "payload": {
+        "sessionId": "4016ab3e-dc54-4ae3-b831-5470efae4784",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 47798,
+          "userId": "afa382a3-55e4-4be8-83d3-c15b61442df9",
+          "timestamp": "2025-12-24T02:15:50.015432+00:00",
+          "metadata": {
+            "ipAddress": "222.62.145.30",
+            "userAgent": "Finally consider build attorney nature record ever. Year while material century order me serve.",
+            "deviceId": "743420d3-84e1-496d-b638-e8f5aa0e5cb8"
+          }
+        }
+      },
+      "_batch_id": "f6f8b3e4",
+      "_generated_at": "2025-12-24T02:15:50.015487+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    }
+  ]
+}

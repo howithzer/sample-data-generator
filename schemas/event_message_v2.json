@@ -1,0 +1,43 @@
+{
+    "name": "event_message_v2",
+    "version": "2.0.0",
+    "description": "Nested event message schema for stress testing with envelope",
+    "envelope": {
+        "messageId": "uuid",
+        "publishTime": "timestamp"
+    },
+    "payload": {
+        "sessionId": "uuid",
+        "event": {
+            "verb": {
+                "type": "choice",
+                "options": [
+                    "POST",
+                    "GET",
+                    "PUT",
+                    "DELETE",
+                    "PATCH"
+                ]
+            },
+            "eventType": {
+                "type": "choice",
+                "options": [
+                    "Heartbeat",
+                    "Login",
+                    "Logout",
+                    "Transaction",
+                    "PageView",
+                    "Click"
+                ]
+            },
+            "applicationId": "integer",
+            "userId": "uuid",
+            "timestamp": "timestamp",
+            "metadata": {
+                "ipAddress": "ipv4",
+                "userAgent": "text",
+                "deviceId": "uuid"
+            }
+        }
+    }
+}

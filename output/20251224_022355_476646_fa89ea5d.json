@@ -1,0 +1,413 @@
+{
+  "batch_id": "fa89ea5d",
+  "record_count": 17,
+  "records": [
+    {
+      "_batch_id": "fa89ea5d",
+      "messageId": "d79d22dd-78c3-4b1e-8d7f-6f1871c7df30",
+      "_generated_at": 32,
+      "payload": {
+        "sessionId": "cc523584-19b0-44f6-9ba9-198a6efa0bac",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 65043,
+          "userId": "0fe6a034-6291-440b-ba6c-288f3e174bef",
+          "timestamp": "2025-12-24T02:23:55.473472+00:00",
+          "metadata": {
+            "ipAddress": "56.110.101.120",
+            "userAgent": "Value floor million choice American to study. Size agent recently interesting region around approach else.\nWho task discover green upon player town. Billion section few western discuss dinner rate.",
+            "deviceId": "de9ee5fb-6ba3-47d2-b050-7cfdb2b7b5c0"
+          }
+        }
+      },
+      "publishTime": "2025-12-24T02:23:55.473455+00:00",
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "reorder",
+        "type_change"
+      ]
+    },
+    {
+      "_batch_id": "fa89ea5d",
+      "messageId": "d79d22dd-78c3-4b1e-8d7f-6f1871c7df30",
+      "_generated_at": 32,
+      "payload": {
+        "sessionId": "cc523584-19b0-44f6-9ba9-198a6efa0bac",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 65043,
+          "userId": "0fe6a034-6291-440b-ba6c-288f3e174bef",
+          "timestamp": "2025-12-24T02:23:55.473472+00:00",
+          "metadata": {
+            "ipAddress": "56.110.101.120",
+            "userAgent": "Value floor million choice American to study. Size agent recently interesting region around approach else.\nWho task discover green upon player town. Billion section few western discuss dinner rate.",
+            "deviceId": "de9ee5fb-6ba3-47d2-b050-7cfdb2b7b5c0"
+          }
+        }
+      },
+      "publishTime": "2025-12-24T02:23:55.473455+00:00",
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "reorder",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "d3bc94bc-0eac-4f6d-b22d-24c25264ffb0",
+      "publishTime": "2025-12-24T02:23:55.473592+00:00",
+      "payload": {
+        "sessionId": "1c439042-0393-480a-9b29-53ab349ae314",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 94965,
+          "userId": "c53413ab-1d3d-4ab5-9b58-cc338e8c98cc",
+          "timestamp": "2025-12-24T02:23:55.473602+00:00",
+          "metadata": {
+            "ipAddress": "93.250.166.248",
+            "userAgent": "Guy rich respond quality kitchen heavy person little. Miss return bring only.\nUsually who expect peace process.\nCommon a remain understand kind staff or capital. Mission rule reflect behavior cut.",
+            "deviceId": "dd515478-af9e-48be-8547-1971adfb7b7c"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:23:55.473681+00:00",
+      "drift_test_col_5_tliv": true,
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "d3bc94bc-0eac-4f6d-b22d-24c25264ffb0",
+      "publishTime": "2025-12-24T02:23:55.473592+00:00",
+      "payload": {
+        "sessionId": "1c439042-0393-480a-9b29-53ab349ae314",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 94965,
+          "userId": "c53413ab-1d3d-4ab5-9b58-cc338e8c98cc",
+          "timestamp": "2025-12-24T02:23:55.473602+00:00",
+          "metadata": {
+            "ipAddress": "93.250.166.248",
+            "userAgent": "Guy rich respond quality kitchen heavy person little. Miss return bring only.\nUsually who expect peace process.\nCommon a remain understand kind staff or capital. Mission rule reflect behavior cut.",
+            "deviceId": "dd515478-af9e-48be-8547-1971adfb7b7c"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:23:55.473681+00:00",
+      "drift_test_col_5_tliv": true,
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "d3bc94bc-0eac-4f6d-b22d-24c25264ffb0",
+      "publishTime": "2025-12-24T02:23:55.473592+00:00",
+      "payload": {
+        "sessionId": "1c439042-0393-480a-9b29-53ab349ae314",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 94965,
+          "userId": "c53413ab-1d3d-4ab5-9b58-cc338e8c98cc",
+          "timestamp": "2025-12-24T02:23:55.473602+00:00",
+          "metadata": {
+            "ipAddress": "93.250.166.248",
+            "userAgent": "Guy rich respond quality kitchen heavy person little. Miss return bring only.\nUsually who expect peace process.\nCommon a remain understand kind staff or capital. Mission rule reflect behavior cut.",
+            "deviceId": "dd515478-af9e-48be-8547-1971adfb7b7c"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:23:55.473681+00:00",
+      "drift_test_col_5_tliv": true,
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "d3bc94bc-0eac-4f6d-b22d-24c25264ffb0",
+      "publishTime": "2025-12-24T02:23:55.473592+00:00",
+      "payload": {
+        "sessionId": "1c439042-0393-480a-9b29-53ab349ae314",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 94965,
+          "userId": "c53413ab-1d3d-4ab5-9b58-cc338e8c98cc",
+          "timestamp": "2025-12-24T02:23:55.473602+00:00",
+          "metadata": {
+            "ipAddress": "93.250.166.248",
+            "userAgent": "Guy rich respond quality kitchen heavy person little. Miss return bring only.\nUsually who expect peace process.\nCommon a remain understand kind staff or capital. Mission rule reflect behavior cut.",
+            "deviceId": "dd515478-af9e-48be-8547-1971adfb7b7c"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_generated_at": "2025-12-24T02:23:55.473681+00:00",
+      "drift_test_col_5_tliv": true,
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "7ad6b7ba-a0e6-49ba-b08e-65ea9fc53788",
+      "publishTime": "2025-12-24T02:23:55.473710+00:00",
+      "payload": {
+        "sessionId": "fda10aa6-0f37-4d84-80c1-1ae1e45cd8db",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 20471,
+          "userId": "ddead2bd-dc3e-43be-95f0-405e99c99659",
+          "timestamp": "2025-12-24T02:23:55.473720+00:00",
+          "metadata": {
+            "ipAddress": "131.130.86.244",
+            "userAgent": "Writer add foreign technology organization person face side. Together less relate hard. Adult hit room number bring. High then building worry real.",
+            "deviceId": "7a1cd6d1-82fa-494c-a833-16ffc9a473f9"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.473784+00:00"
+    },
+    {
+      "messageId": "68c108ba-db1d-49ce-a0ef-ebbba442b3ef",
+      "_batch_id": 8,
+      "publishTime": "2025-12-24T02:23:55.473794+00:00",
+      "payload": {
+        "sessionId": "5f962bf7-421d-4993-af8d-e9c5b8f63b9c",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Logout",
+          "applicationId": 72286,
+          "userId": "c8e79339-7f50-46a0-ac2e-0671f76451a6",
+          "timestamp": "2025-12-24T02:23:55.473802+00:00",
+          "metadata": {
+            "ipAddress": "82.124.231.53",
+            "userAgent": "Manager wonder take subject forget article. Dream bed which.\nSpeech house guy fall. Threat threat degree teacher break. Local stage dark.\nPer season must name later.",
+            "deviceId": "cd8d5233-fca9-435a-9fe7-da1af2ba6381"
+          }
+        }
+      },
+      "_generated_at": "2025-12-24T02:23:55.473870+00:00",
+      "_drift_applied": [
+        "reorder",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "375745a6-8a03-4af2-956f-a700b6395a60",
+      "publishTime": "2025-12-24T02:23:55.473882+00:00",
+      "payload": {
+        "sessionId": "1d887b95-ab52-46fa-99ed-13ed8853b4e8",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Logout",
+          "applicationId": 16362,
+          "userId": "5b5f1f35-fb39-4772-96f8-7e0d7a63f117",
+          "timestamp": "2025-12-24T02:23:55.473891+00:00",
+          "metadata": {
+            "ipAddress": "91.90.95.174",
+            "userAgent": "Concern back say federal. Whom our performance trade court music they. Bill age politics.\nMy drop late lose policy. Magazine set style size.",
+            "deviceId": "8779628b-129c-4959-8fa6-d17a194941ee"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.474962+00:00"
+    },
+    {
+      "messageId": "17d602a4-6a05-412e-9caa-64648a0aad95",
+      "publishTime": "2025-12-24T02:23:55.475528+00:00",
+      "payload": {
+        "sessionId": "4087cbcc-6935-4572-9ea3-318f26c218d5",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 70824,
+          "userId": "9736a5a8-ebd2-427d-8280-f2cf4a933ac1",
+          "timestamp": "2025-12-24T02:23:55.475536+00:00",
+          "metadata": {
+            "ipAddress": "50.109.95.107",
+            "userAgent": "Current reflect would blood expert. Rich course season meet whole strategy generation.",
+            "deviceId": "18c2de0d-7083-4b24-b090-3dade5c4f47d"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475584+00:00"
+    },
+    {
+      "messageId": "17d602a4-6a05-412e-9caa-64648a0aad95",
+      "publishTime": "2025-12-24T02:23:55.475528+00:00",
+      "payload": {
+        "sessionId": "4087cbcc-6935-4572-9ea3-318f26c218d5",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 70824,
+          "userId": "9736a5a8-ebd2-427d-8280-f2cf4a933ac1",
+          "timestamp": "2025-12-24T02:23:55.475536+00:00",
+          "metadata": {
+            "ipAddress": "50.109.95.107",
+            "userAgent": "Current reflect would blood expert. Rich course season meet whole strategy generation.",
+            "deviceId": "18c2de0d-7083-4b24-b090-3dade5c4f47d"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475584+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "17d602a4-6a05-412e-9caa-64648a0aad95",
+      "publishTime": "2025-12-24T02:23:55.475528+00:00",
+      "payload": {
+        "sessionId": "4087cbcc-6935-4572-9ea3-318f26c218d5",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 70824,
+          "userId": "9736a5a8-ebd2-427d-8280-f2cf4a933ac1",
+          "timestamp": "2025-12-24T02:23:55.475536+00:00",
+          "metadata": {
+            "ipAddress": "50.109.95.107",
+            "userAgent": "Current reflect would blood expert. Rich course season meet whole strategy generation.",
+            "deviceId": "18c2de0d-7083-4b24-b090-3dade5c4f47d"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475584+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "17d602a4-6a05-412e-9caa-64648a0aad95",
+      "publishTime": "2025-12-24T02:23:55.475528+00:00",
+      "payload": {
+        "sessionId": "4087cbcc-6935-4572-9ea3-318f26c218d5",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Logout",
+          "applicationId": 70824,
+          "userId": "9736a5a8-ebd2-427d-8280-f2cf4a933ac1",
+          "timestamp": "2025-12-24T02:23:55.475536+00:00",
+          "metadata": {
+            "ipAddress": "50.109.95.107",
+            "userAgent": "Current reflect would blood expert. Rich course season meet whole strategy generation.",
+            "deviceId": "18c2de0d-7083-4b24-b090-3dade5c4f47d"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475584+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "da7239ef-07c6-4899-92bc-ab3120ef47aa",
+      "publishTime": "2025-12-24T02:23:55.475602+00:00",
+      "payload": {
+        "sessionId": "b104adcf-8e13-4433-b175-c77823d370c8",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 17855,
+          "userId": "18c494b9-e13d-449a-9c85-23618b918a75",
+          "timestamp": "2025-12-24T02:23:55.475609+00:00",
+          "metadata": {
+            "ipAddress": "25.159.198.111",
+            "userAgent": "Film spend space surface. College open expect that any. Stand himself leader form gun.",
+            "deviceId": "daf4df92-3658-4bc3-be48-4956428ffbf1"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475662+00:00"
+    },
+    {
+      "messageId": "7ae9f930-e350-416f-a66c-13b82ee04980",
+      "publishTime": "2025-12-24T02:23:55.475666+00:00",
+      "payload": {
+        "sessionId": "a829e7ac-224c-4569-919b-699f6098ebb4",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 64871,
+          "userId": "b99e9321-19ca-48ca-99d5-3571543f5763",
+          "timestamp": "2025-12-24T02:23:55.475673+00:00",
+          "metadata": {
+            "ipAddress": "203.239.119.113",
+            "userAgent": "Seven book society benefit. Sometimes series size hard sing around enjoy.\nAir recognize the order. As argue include child this return. Edge election defense firm. Claim blood five wait do.",
+            "deviceId": "f9268b83-d547-4b80-87b8-5fbcaa78cc7a"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475732+00:00"
+    },
+    {
+      "messageId": "de18840c-42b1-4a1b-ab89-06bc95b3dbf6",
+      "publishTime": "2025-12-24T02:23:55.475739+00:00",
+      "payload": {
+        "sessionId": "83eed1dc-3426-4c24-909e-bd22771eeaf2",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Click",
+          "applicationId": 33835,
+          "userId": "2cd2ac21-a7c2-47b1-90be-6b5f0fa55f6a",
+          "timestamp": "2025-12-24T02:23:55.475747+00:00",
+          "metadata": {
+            "ipAddress": "89.216.38.169",
+            "userAgent": "Name upon final have. Interest about fund conference. Paper with suddenly.\nLikely carry able. Big on tend arrive popular.",
+            "deviceId": "c6925b3b-3498-4103-a36f-d454ceddff2a"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475810+00:00"
+    },
+    {
+      "messageId": "c117a358-9af3-405e-b31e-3d9db0217f09",
+      "publishTime": "2025-12-24T02:23:55.475815+00:00",
+      "payload": {
+        "sessionId": "bd6711d7-7529-494c-8547-cc168d0245b2",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 58952,
+          "userId": "3884db96-591b-4b0e-897d-788fb2e78464",
+          "timestamp": "2025-12-24T02:23:55.475822+00:00",
+          "metadata": {
+            "ipAddress": "80.221.37.21",
+            "userAgent": "Table simply shake analysis. Finally bring weight southern somebody executive strong key. Specific perform exactly event energy may such.",
+            "deviceId": "4b93a600-1415-484a-9f90-2bc8aa16929d"
+          }
+        }
+      },
+      "_batch_id": "fa89ea5d",
+      "_generated_at": "2025-12-24T02:23:55.475871+00:00"
+    }
+  ]
+}

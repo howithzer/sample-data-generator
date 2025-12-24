@@ -1,0 +1,24 @@
+{
+  "run_mode": "local",
+  "log_format": "user",
+  "log_level": "INFO",
+  "sink_type": "file",
+  "concurrency": 5,
+  "batch_size": 20,
+  "total_records": 100,
+  "metrics_interval_seconds": 5,
+  "schema_config": {
+    "base_schema": "schemas/transaction_v1.json",
+    "drift": {
+      "enabled": true,
+      "percentage": 0.5,
+      "add_columns": true,
+      "delete_columns": true,
+      "reorder_columns": true,
+      "type_changes": true
+    }
+  },
+  "file_config": {
+    "output_dir": "./output"
+  }
+}

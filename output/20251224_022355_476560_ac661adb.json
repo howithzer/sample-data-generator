@@ -1,0 +1,385 @@
+{
+  "batch_id": "ac661adb",
+  "record_count": 16,
+  "records": [
+    {
+      "messageId": "d358bc5d-7bb4-486e-a23c-9101ee40319f",
+      "publishTime": "2025-12-24T02:23:55.474117+00:00",
+      "payload": {
+        "sessionId": "3e653767-7c4c-47e9-a1b4-3f93f3cd7de9",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 88643,
+          "userId": "6fe32f23-7b10-46fa-a302-45082f74f293",
+          "timestamp": "2025-12-24T02:23:55.474132+00:00",
+          "metadata": {
+            "ipAddress": "184.235.231.19",
+            "userAgent": "Play still rise ever question. Art scientist arm significant it feel maybe. Building general modern exist wall. Mouth least ready clearly respond.",
+            "deviceId": "6f5ba966-0e59-4164-b478-9e9fd4889090"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474206+00:00",
+      "drift_test_col_6_bjqo": 61202,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "d358bc5d-7bb4-486e-a23c-9101ee40319f",
+      "publishTime": "2025-12-24T02:23:55.474117+00:00",
+      "payload": {
+        "sessionId": "3e653767-7c4c-47e9-a1b4-3f93f3cd7de9",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 88643,
+          "userId": "6fe32f23-7b10-46fa-a302-45082f74f293",
+          "timestamp": "2025-12-24T02:23:55.474132+00:00",
+          "metadata": {
+            "ipAddress": "184.235.231.19",
+            "userAgent": "Play still rise ever question. Art scientist arm significant it feel maybe. Building general modern exist wall. Mouth least ready clearly respond.",
+            "deviceId": "6f5ba966-0e59-4164-b478-9e9fd4889090"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474206+00:00",
+      "drift_test_col_6_bjqo": 61202,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "d358bc5d-7bb4-486e-a23c-9101ee40319f",
+      "publishTime": "2025-12-24T02:23:55.474117+00:00",
+      "payload": {
+        "sessionId": "3e653767-7c4c-47e9-a1b4-3f93f3cd7de9",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 88643,
+          "userId": "6fe32f23-7b10-46fa-a302-45082f74f293",
+          "timestamp": "2025-12-24T02:23:55.474132+00:00",
+          "metadata": {
+            "ipAddress": "184.235.231.19",
+            "userAgent": "Play still rise ever question. Art scientist arm significant it feel maybe. Building general modern exist wall. Mouth least ready clearly respond.",
+            "deviceId": "6f5ba966-0e59-4164-b478-9e9fd4889090"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474206+00:00",
+      "drift_test_col_6_bjqo": 61202,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "e03f888a-bb9d-4a7e-b50b-4e61eee00843",
+      "publishTime": "2025-12-24T02:23:55.474233+00:00",
+      "payload": {
+        "sessionId": "3488e2f7-02ac-420d-abeb-6ce9b76baa81",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Click",
+          "applicationId": 73984,
+          "userId": "a2660810-3f0a-4a94-9385-8363da2963bc",
+          "timestamp": "2025-12-24T02:23:55.474244+00:00",
+          "metadata": {
+            "ipAddress": "107.197.150.153",
+            "userAgent": "State money general policy those summer production. Bank cold natural responsibility director should.",
+            "deviceId": "56756a03-1b03-41b6-991c-c158c81391a8"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474302+00:00"
+    },
+    {
+      "messageId": "6308f0b2-cf6f-4bda-bd98-cc5b7fec2eaa",
+      "publishTime": "2025-12-24T02:23:55.474307+00:00",
+      "payload": {
+        "sessionId": "c49aa1d3-03b8-42bd-966c-e59e266513ac",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 6651,
+          "userId": "34c40bd9-4592-4527-a4be-8f84c3da6ae9",
+          "timestamp": "2025-12-24T02:23:55.474315+00:00",
+          "metadata": {
+            "ipAddress": "189.200.102.209",
+            "userAgent": "Wrong view and speak Mrs. Movement arrive thank research.\nMachine expert suggest probably effect. Investment official price.",
+            "deviceId": "49787b2d-ca3f-455b-a215-776e6bb901e2"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474378+00:00"
+    },
+    {
+      "messageId": "6308f0b2-cf6f-4bda-bd98-cc5b7fec2eaa",
+      "publishTime": "2025-12-24T02:23:55.474307+00:00",
+      "payload": {
+        "sessionId": "c49aa1d3-03b8-42bd-966c-e59e266513ac",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 6651,
+          "userId": "34c40bd9-4592-4527-a4be-8f84c3da6ae9",
+          "timestamp": "2025-12-24T02:23:55.474315+00:00",
+          "metadata": {
+            "ipAddress": "189.200.102.209",
+            "userAgent": "Wrong view and speak Mrs. Movement arrive thank research.\nMachine expert suggest probably effect. Investment official price.",
+            "deviceId": "49787b2d-ca3f-455b-a215-776e6bb901e2"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474378+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "6308f0b2-cf6f-4bda-bd98-cc5b7fec2eaa",
+      "publishTime": "2025-12-24T02:23:55.474307+00:00",
+      "payload": {
+        "sessionId": "c49aa1d3-03b8-42bd-966c-e59e266513ac",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 6651,
+          "userId": "34c40bd9-4592-4527-a4be-8f84c3da6ae9",
+          "timestamp": "2025-12-24T02:23:55.474315+00:00",
+          "metadata": {
+            "ipAddress": "189.200.102.209",
+            "userAgent": "Wrong view and speak Mrs. Movement arrive thank research.\nMachine expert suggest probably effect. Investment official price.",
+            "deviceId": "49787b2d-ca3f-455b-a215-776e6bb901e2"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474378+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "a9ebb835-6555-48ea-9ff6-1f2a33c510f1",
+      "publishTime": "2025-12-24T02:23:55.474395+00:00",
+      "payload": {
+        "sessionId": "9c1ff3e8-efda-4374-a83f-67fe21581dcd",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 59356,
+          "userId": "5c86f79e-b84a-4a01-b162-c80fdb3d1d6b",
+          "timestamp": "2025-12-24T02:23:55.474404+00:00",
+          "metadata": {
+            "ipAddress": "17.188.97.246",
+            "userAgent": "Plant beautiful PM baby Mrs all. Skin practice read direction ball far finish.\nDecade social indeed population black improve speech. Life per simple chair partner mouth.",
+            "deviceId": "83c401eb-f1fe-4067-9ae6-445a4b91f51b"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474467+00:00"
+    },
+    {
+      "_batch_id": "ac661adb",
+      "messageId": "eb43a776-f29d-46a7-b87b-b3a4ffd81b17",
+      "publishTime": "2025-12-24T02:23:55.474472+00:00",
+      "drift_test_col_7_bvht": 855.09,
+      "_generated_at": "2025-12-24T02:23:55.474544+00:00",
+      "payload": {
+        "sessionId": "d6ccab1a-1d36-4cf1-ae00-3d69f6bc759e",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 29680,
+          "userId": "e5e29afc-72c8-4f23-b013-adc7310d3911",
+          "timestamp": "2025-12-24T02:23:55.474480+00:00",
+          "metadata": {
+            "ipAddress": "165.91.34.133",
+            "userAgent": "Prevent never rather young fund marriage how. Maintain task standard more month. Guess any decide letter baby.",
+            "deviceId": "ac14d96b-f0c7-458b-a7fd-f00bd3398ffe"
+          }
+        }
+      },
+      "_drift_applied": [
+        "add_column",
+        "reorder"
+      ]
+    },
+    {
+      "messageId": "179a5d39-cb41-40ce-b66a-dff17841e3ca",
+      "publishTime": "2025-12-24T02:23:55.474559+00:00",
+      "payload": {
+        "sessionId": "56dd3795-8a69-4316-9551-16dce1ef7d63",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 97827,
+          "userId": "1b1b68e3-60b8-4af3-9290-8dc36f7bf756",
+          "timestamp": "2025-12-24T02:23:55.474568+00:00",
+          "metadata": {
+            "ipAddress": "203.134.120.230",
+            "userAgent": "Can decision necessary simply color with main whatever. Still past majority professional life teach. Against paper mind left such whom east.",
+            "deviceId": "d26e7fd0-21c6-44cd-946c-a1d658b2739e"
+          }
+        }
+      },
+      "_generated_at": 32,
+      "_drift_applied": [
+        "delete_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "179a5d39-cb41-40ce-b66a-dff17841e3ca",
+      "publishTime": "2025-12-24T02:23:55.474559+00:00",
+      "payload": {
+        "sessionId": "56dd3795-8a69-4316-9551-16dce1ef7d63",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 97827,
+          "userId": "1b1b68e3-60b8-4af3-9290-8dc36f7bf756",
+          "timestamp": "2025-12-24T02:23:55.474568+00:00",
+          "metadata": {
+            "ipAddress": "203.134.120.230",
+            "userAgent": "Can decision necessary simply color with main whatever. Still past majority professional life teach. Against paper mind left such whom east.",
+            "deviceId": "d26e7fd0-21c6-44cd-946c-a1d658b2739e"
+          }
+        }
+      },
+      "_generated_at": 32,
+      "_drift_applied": [
+        "delete_column",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "179a5d39-cb41-40ce-b66a-dff17841e3ca",
+      "publishTime": "2025-12-24T02:23:55.474559+00:00",
+      "payload": {
+        "sessionId": "56dd3795-8a69-4316-9551-16dce1ef7d63",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 97827,
+          "userId": "1b1b68e3-60b8-4af3-9290-8dc36f7bf756",
+          "timestamp": "2025-12-24T02:23:55.474568+00:00",
+          "metadata": {
+            "ipAddress": "203.134.120.230",
+            "userAgent": "Can decision necessary simply color with main whatever. Still past majority professional life teach. Against paper mind left such whom east.",
+            "deviceId": "d26e7fd0-21c6-44cd-946c-a1d658b2739e"
+          }
+        }
+      },
+      "_generated_at": 32,
+      "_drift_applied": [
+        "delete_column",
+        "type_change"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "c035f5b7-885f-4f8c-ada4-b3a3dc98e3a3",
+      "publishTime": "2025-12-24T02:23:55.474648+00:00",
+      "payload": {
+        "sessionId": "ead8d85c-ee54-489a-9b3a-24677a735e1f",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 12788,
+          "userId": "984350ce-7a48-4a43-9349-3144c48304b7",
+          "timestamp": "2025-12-24T02:23:55.474656+00:00",
+          "metadata": {
+            "ipAddress": "107.54.46.181",
+            "userAgent": "Two others condition station everything region. Teacher evidence indeed somebody oil.",
+            "deviceId": "58bdefae-e0b2-4a8e-b12d-afed9b8ce923"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_drift_applied": [
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "9865e597-ee3e-456a-9b9b-483b54ad3913",
+      "publishTime": "2025-12-24T02:23:55.474718+00:00",
+      "payload": {
+        "sessionId": "2509589b-207a-4029-96ea-b5df5a8b69fb",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 95223,
+          "userId": "4f4f2880-7e59-4329-9a08-825294567701",
+          "timestamp": "2025-12-24T02:23:55.474726+00:00",
+          "metadata": {
+            "ipAddress": "138.200.243.91",
+            "userAgent": "Investment notice board trade conference edge. Strategy hope quite add fund culture.\nThought common base by admit. Difficult character picture cover card.",
+            "deviceId": "f7cb795a-22cb-47b5-b784-7eb2c0b39b97"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474789+00:00"
+    },
+    {
+      "messageId": "6c568712-99c4-4d91-9166-3bf73b47ef85",
+      "publishTime": "2025-12-24T02:23:55.474793+00:00",
+      "payload": {
+        "sessionId": "7693e8c2-798a-427e-aa3d-ca835ed1b148",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 88589,
+          "userId": "447495b1-5a7d-47dc-87f2-ec3e2fa111c9",
+          "timestamp": "2025-12-24T02:23:55.474802+00:00",
+          "metadata": {
+            "ipAddress": "142.166.186.56",
+            "userAgent": "Material movie treat support bad arrive part perhaps. Kind newspaper sign thus TV Republican respond. Boy attention next.",
+            "deviceId": "ec340de6-559e-4819-952c-141d6fcb114c"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": 32,
+      "_drift_applied": [
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "57707c0d-2c90-48d3-8479-18416ade9137",
+      "publishTime": "2025-12-24T02:23:55.474866+00:00",
+      "payload": {
+        "sessionId": "26b501ee-8b87-4d31-845f-ee467bde0c33",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Heartbeat",
+          "applicationId": 20965,
+          "userId": "9ebf163d-b2c2-4209-bf32-c296c036634c",
+          "timestamp": "2025-12-24T02:23:55.474875+00:00",
+          "metadata": {
+            "ipAddress": "189.128.70.125",
+            "userAgent": "Above word truth myself. Them necessary Mr project many actually describe a. Politics study discover be part personal. Turn kid rule none image list.",
+            "deviceId": "7a733ee3-5bdb-4c0c-8c2f-628e60ca0619"
+          }
+        }
+      },
+      "_batch_id": "ac661adb",
+      "_generated_at": "2025-12-24T02:23:55.474930+00:00"
+    }
+  ]
+}

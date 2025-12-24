@@ -1,0 +1,320 @@
+{
+  "batch_id": "22f3552f",
+  "record_count": 14,
+  "records": [
+    {
+      "messageId": "2f3a428d-bf68-4abe-b495-21fed79e7918",
+      "publishTime": "2025-12-24T02:20:48.624641+00:00",
+      "payload": {
+        "sessionId": "b025a0fd-a860-4f47-a006-8c76e246de82",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Heartbeat",
+          "applicationId": 1485,
+          "userId": "778da079-f6c1-4ffa-8fb3-1ed3441b7237",
+          "timestamp": "2025-12-24T02:20:48.624667+00:00",
+          "metadata": {
+            "ipAddress": "180.169.6.243",
+            "userAgent": "Up couple same interview. First bit respond left fire enough. Move half relationship.\nTake tax nothing. Field detail make. Heart card Mrs head never. Tell every hard policy old market.",
+            "deviceId": "5bbffe9d-bb63-4fd9-8181-044aef69fefb"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627224+00:00"
+    },
+    {
+      "messageId": "2f3a428d-bf68-4abe-b495-21fed79e7918",
+      "publishTime": "2025-12-24T02:20:48.624641+00:00",
+      "payload": {
+        "sessionId": "b025a0fd-a860-4f47-a006-8c76e246de82",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Heartbeat",
+          "applicationId": 1485,
+          "userId": "778da079-f6c1-4ffa-8fb3-1ed3441b7237",
+          "timestamp": "2025-12-24T02:20:48.624667+00:00",
+          "metadata": {
+            "ipAddress": "180.169.6.243",
+            "userAgent": "Up couple same interview. First bit respond left fire enough. Move half relationship.\nTake tax nothing. Field detail make. Heart card Mrs head never. Tell every hard policy old market.",
+            "deviceId": "5bbffe9d-bb63-4fd9-8181-044aef69fefb"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627224+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "2f3a428d-bf68-4abe-b495-21fed79e7918",
+      "publishTime": "2025-12-24T02:20:48.624641+00:00",
+      "payload": {
+        "sessionId": "b025a0fd-a860-4f47-a006-8c76e246de82",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Heartbeat",
+          "applicationId": 1485,
+          "userId": "778da079-f6c1-4ffa-8fb3-1ed3441b7237",
+          "timestamp": "2025-12-24T02:20:48.624667+00:00",
+          "metadata": {
+            "ipAddress": "180.169.6.243",
+            "userAgent": "Up couple same interview. First bit respond left fire enough. Move half relationship.\nTake tax nothing. Field detail make. Heart card Mrs head never. Tell every hard policy old market.",
+            "deviceId": "5bbffe9d-bb63-4fd9-8181-044aef69fefb"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627224+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "99e0be5f-7189-4043-ad0e-5e6ceb0d9037",
+      "publishTime": "2025-12-24T02:20:48.627247+00:00",
+      "payload": {
+        "sessionId": "5cf61def-7670-4270-bde6-0ff0bcc6bfd7",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 37416,
+          "userId": "dee0bd32-125a-4b66-9173-6069087d189b",
+          "timestamp": "2025-12-24T02:20:48.627262+00:00",
+          "metadata": {
+            "ipAddress": "15.166.5.107",
+            "userAgent": "System information article rate realize any radio. Describe international discuss personal my discuss. Audience rather nice company pick then. Age lawyer though child.",
+            "deviceId": "6457c0f4-3440-46d2-9d67-38d6d3e94404"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627395+00:00"
+    },
+    {
+      "messageId": "a4234ad3-4546-45f6-a742-845199d24536",
+      "publishTime": "2025-12-24T02:20:48.627402+00:00",
+      "payload": {
+        "sessionId": "d3891708-22e6-42a7-bacd-2ab398607425",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Logout",
+          "applicationId": 37632,
+          "userId": "ad370b23-6f9e-46e0-81e5-88a9a3b899b0",
+          "timestamp": "2025-12-24T02:20:48.627412+00:00",
+          "metadata": {
+            "ipAddress": "183.59.198.73",
+            "userAgent": "Condition involve professor. Huge third within certain expect both. Perhaps sit style within.\nWould last city. Cause specific box various thank how us ask.",
+            "deviceId": "a16269ee-4b8d-4a0d-be7c-e79e1a31b679"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": 32,
+      "_drift_applied": [
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "451b4053-bef1-4225-8bb0-0134c677e1f5",
+      "publishTime": "2025-12-24T02:20:48.627499+00:00",
+      "payload": {
+        "sessionId": "a86acd38-c662-4324-b4a4-1e4d12a1d5ca",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 59002,
+          "userId": "69638919-b24c-4b6b-97b6-edcc6e126c58",
+          "timestamp": "2025-12-24T02:20:48.627508+00:00",
+          "metadata": {
+            "ipAddress": "50.248.62.26",
+            "userAgent": "Lawyer hard there treat claim. Trade admit nature deal fire require. There of age involve week system group.",
+            "deviceId": "a5141c95-f818-4ee3-8ac3-d1ce3c796e96"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627572+00:00"
+    },
+    {
+      "messageId": "8be1034e-4b44-4373-82ad-91481e21309e",
+      "publishTime": "2025-12-24T02:20:48.627577+00:00",
+      "payload": {
+        "sessionId": "349c143c-229a-4a3a-b3bb-604fdd30f838",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 50987,
+          "userId": "9279b85e-f612-4ef5-9b5e-56ed24aa653c",
+          "timestamp": "2025-12-24T02:20:48.627586+00:00",
+          "metadata": {
+            "ipAddress": "184.216.83.71",
+            "userAgent": "Case race safe field good. Natural use consumer field call law partner. General camera social determine approach professor she possible.",
+            "deviceId": "bc63d2c3-d313-434b-92de-df465644c1d5"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627642+00:00"
+    },
+    {
+      "publishTime": "2025-12-24T02:20:48.627646+00:00",
+      "_generated_at": "2025-12-24T02:20:48.627705+00:00",
+      "drift_test_col_1_cbxi": "5234.5",
+      "payload": {
+        "sessionId": "eff108d0-7de4-422d-9922-0cbe6811b45a",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 75628,
+          "userId": "36b4fd3c-5e2e-4f8f-a92e-4e8f0226e795",
+          "timestamp": "2025-12-24T02:20:48.627654+00:00",
+          "metadata": {
+            "ipAddress": "19.91.69.242",
+            "userAgent": "General must particular mission concern watch security leader. Oil country heavy watch listen.",
+            "deviceId": "6348a25f-15a8-4e46-8691-448aa734b635"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "messageId": "4e71eed2-4dc9-4185-8928-c19ef174c911",
+      "_drift_applied": [
+        "add_column",
+        "reorder",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "ece5ffe3-c86f-4889-9bc2-42f81446afe3",
+      "publishTime": "2025-12-24T02:20:48.627729+00:00",
+      "payload": {
+        "sessionId": "744e54ae-de45-43eb-8c6b-dae4176c420f",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Click",
+          "applicationId": 59250,
+          "userId": "825a3461-29bf-4871-829b-13cb08d3dee3",
+          "timestamp": "2025-12-24T02:20:48.627738+00:00",
+          "metadata": {
+            "ipAddress": "104.103.150.129",
+            "userAgent": "Between small window protect understand quickly crime shoulder. Movement set continue who.\nIndicate world social nature. Decide account yes us.",
+            "deviceId": "49cd0717-336c-44fd-a01c-341869ceb210"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": 32,
+      "_drift_applied": [
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "af0264d7-6d6a-4957-8b62-b634a8a90d7e",
+      "publishTime": "2025-12-24T02:20:48.627814+00:00",
+      "payload": {
+        "sessionId": "67e19ad4-0d11-4ce3-be54-990e5ab9e649",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 3873,
+          "userId": "8b3e6311-1191-48ec-b721-31d331323a66",
+          "timestamp": "2025-12-24T02:20:48.627822+00:00",
+          "metadata": {
+            "ipAddress": "106.213.149.28",
+            "userAgent": "Activity thought population today woman its. Soldier agreement kind sister really. Pick else guy oil open case. Provide particular deal across game forget.",
+            "deviceId": "226ea298-c11e-4f61-ba9e-142c2d0532e9"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.627878+00:00"
+    },
+    {
+      "messageId": "5e5f90a4-4cc9-4824-bef2-3d895be330ca",
+      "publishTime": "2025-12-24T02:20:48.627889+00:00",
+      "payload": {
+        "sessionId": "a676fa20-3539-4563-a330-63c94487bf4f",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 6682,
+          "userId": "a0b5a29e-9f5a-4db5-aa1f-f019d59a63c6",
+          "timestamp": "2025-12-24T02:20:48.628841+00:00",
+          "metadata": {
+            "ipAddress": "109.183.31.62",
+            "userAgent": "Similar music together people camera. East show necessary last body purpose. Significant particular food sometimes land difference.",
+            "deviceId": "93b5c131-535a-41db-9b94-10968442df1c"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.628921+00:00"
+    },
+    {
+      "messageId": "5e5f90a4-4cc9-4824-bef2-3d895be330ca",
+      "publishTime": "2025-12-24T02:20:48.627889+00:00",
+      "payload": {
+        "sessionId": "a676fa20-3539-4563-a330-63c94487bf4f",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 6682,
+          "userId": "a0b5a29e-9f5a-4db5-aa1f-f019d59a63c6",
+          "timestamp": "2025-12-24T02:20:48.628841+00:00",
+          "metadata": {
+            "ipAddress": "109.183.31.62",
+            "userAgent": "Similar music together people camera. East show necessary last body purpose. Significant particular food sometimes land difference.",
+            "deviceId": "93b5c131-535a-41db-9b94-10968442df1c"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.628921+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "5e5f90a4-4cc9-4824-bef2-3d895be330ca",
+      "publishTime": "2025-12-24T02:20:48.627889+00:00",
+      "payload": {
+        "sessionId": "a676fa20-3539-4563-a330-63c94487bf4f",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Login",
+          "applicationId": 6682,
+          "userId": "a0b5a29e-9f5a-4db5-aa1f-f019d59a63c6",
+          "timestamp": "2025-12-24T02:20:48.628841+00:00",
+          "metadata": {
+            "ipAddress": "109.183.31.62",
+            "userAgent": "Similar music together people camera. East show necessary last body purpose. Significant particular food sometimes land difference.",
+            "deviceId": "93b5c131-535a-41db-9b94-10968442df1c"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.628921+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "0e44e4c8-8e98-4e33-91f7-30f9d3146bd5",
+      "publishTime": "2025-12-24T02:20:48.630820+00:00",
+      "payload": {
+        "sessionId": "2b6a9477-2470-4ced-9129-fef36e1d68c6",
+        "event": {
+          "verb": "PUT",
+          "eventType": "PageView",
+          "applicationId": 12954,
+          "userId": "e0cc8f80-c07e-46f1-b681-889cef37f90d",
+          "timestamp": "2025-12-24T02:20:48.630830+00:00",
+          "metadata": {
+            "ipAddress": "69.255.92.251",
+            "userAgent": "Center center explain unit under.\nPoor let course father almost music they. Exactly nor nearly contain never company bad movie.",
+            "deviceId": "6a6de87b-966e-4f04-bd79-22942dfb38a6"
+          }
+        }
+      },
+      "_batch_id": "22f3552f",
+      "_generated_at": "2025-12-24T02:20:48.630894+00:00"
+    }
+  ]
+}

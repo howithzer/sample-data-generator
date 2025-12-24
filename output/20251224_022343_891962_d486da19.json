@@ -1,0 +1,258 @@
+{
+  "batch_id": "d486da19",
+  "record_count": 11,
+  "records": [
+    {
+      "messageId": "c9807a69-91c2-401a-8233-b4c6a2011d46",
+      "publishTime": "2025-12-24T02:23:43.888175+00:00",
+      "payload": {
+        "sessionId": "b2a89c8b-b2ff-4556-beee-dc7f7e4ca663",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 4182,
+          "userId": "a6631637-fc38-4cee-b835-6541b9719726",
+          "timestamp": "2025-12-24T02:23:43.888184+00:00",
+          "metadata": {
+            "ipAddress": "144.74.254.253",
+            "userAgent": "Style little trade who single similar us performance. Worker them wonder rate bad million ever.\nProperty late institution board investment six serve.",
+            "deviceId": "b308506e-8daa-4912-bae7-0e800017c4cf"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.888250+00:00"
+    },
+    {
+      "messageId": "c9807a69-91c2-401a-8233-b4c6a2011d46",
+      "publishTime": "2025-12-24T02:23:43.888175+00:00",
+      "payload": {
+        "sessionId": "b2a89c8b-b2ff-4556-beee-dc7f7e4ca663",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 4182,
+          "userId": "a6631637-fc38-4cee-b835-6541b9719726",
+          "timestamp": "2025-12-24T02:23:43.888184+00:00",
+          "metadata": {
+            "ipAddress": "144.74.254.253",
+            "userAgent": "Style little trade who single similar us performance. Worker them wonder rate bad million ever.\nProperty late institution board investment six serve.",
+            "deviceId": "b308506e-8daa-4912-bae7-0e800017c4cf"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.888250+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "payload": {
+        "sessionId": "5b78ab91-1ccd-4861-b7fb-59fab82cec3d",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 45802,
+          "userId": "ed171fc1-5cfa-4656-9699-6c77f3ff0ed7",
+          "timestamp": "2025-12-24T02:23:43.888268+00:00",
+          "metadata": {
+            "ipAddress": "173.85.207.204",
+            "userAgent": "Special activity use strong summer will including.\nBed generation safe question three generation drug crime. Develop person move share team bring.",
+            "deviceId": "856b0a6a-3e5b-4754-a385-8bcfaff14334"
+          }
+        }
+      },
+      "messageId": "37c612a8-a0e1-4237-ad6d-a6e0a7518fda",
+      "publishTime": "2025-12-24T02:23:43.888260+00:00",
+      "_batch_id": "d486da19",
+      "_drift_applied": [
+        "delete_column",
+        "reorder"
+      ]
+    },
+    {
+      "messageId": "29709553-6ddd-4af6-87e3-449a5c4a5fd0",
+      "publishTime": "2025-12-24T02:23:43.888338+00:00",
+      "payload": {
+        "sessionId": "b716a22c-c62b-4a64-8317-bcef64fda748",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 34943,
+          "userId": "999200eb-d009-42e3-b0f1-5dcf3e2fe491",
+          "timestamp": "2025-12-24T02:23:43.888347+00:00",
+          "metadata": {
+            "ipAddress": "203.96.76.90",
+            "userAgent": "Chair under loss hair. Between option he fast investment leg participant.\nFact every note from likely. Age program who. Mrs beautiful social west benefit whose. Since late various guy series early.",
+            "deviceId": "1aa2b5c1-d25a-4e97-8067-56be3337c19a"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.888429+00:00"
+    },
+    {
+      "messageId": "5ee3c9b8-377b-4ee5-8f92-63d5fc81aa79",
+      "publishTime": "2025-12-24T02:23:43.888438+00:00",
+      "payload": {
+        "sessionId": "7b99f94a-74b2-4278-824f-bf419230f701",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 73169,
+          "userId": "74155b85-c8db-4120-a4d2-ae95c4fecc52",
+          "timestamp": "2025-12-24T02:23:43.888446+00:00",
+          "metadata": {
+            "ipAddress": "154.179.179.5",
+            "userAgent": "Add study win activity card program. Real again find think.\nAfter well compare letter run section serious near. Its body exist better challenge image leave.",
+            "deviceId": "b679688f-14be-40a5-9e75-231fc7774a8f"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.888510+00:00"
+    },
+    {
+      "messageId": "9e6dca7e-ae82-4a92-ba0b-eef5d0f4f227",
+      "publishTime": "2025-12-24T02:23:43.888515+00:00",
+      "payload": {
+        "sessionId": "a060b6fb-2724-4ead-942a-dd596b238b74",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "PageView",
+          "applicationId": 51010,
+          "userId": "1fe5e95d-a594-4000-9f95-5dd0f7acecbd",
+          "timestamp": "2025-12-24T02:23:43.888524+00:00",
+          "metadata": {
+            "ipAddress": "48.47.124.89",
+            "userAgent": "Herself media almost card measure. Force want forget sort. Every important future book middle.",
+            "deviceId": "8059fbba-cca0-474d-8974-eb1fd6f4d36e"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.889618+00:00"
+    },
+    {
+      "messageId": "a788aafa-4b55-4d1c-9ab1-8a0d335926bd",
+      "publishTime": "2025-12-24T02:23:43.889626+00:00",
+      "payload": {
+        "sessionId": "9a881aac-df9e-4091-b1ca-5fc5e67dc07c",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Logout",
+          "applicationId": 71947,
+          "userId": "4d75bc75-f728-4861-9ea9-83c97ed42250",
+          "timestamp": "2025-12-24T02:23:43.889639+00:00",
+          "metadata": {
+            "ipAddress": "44.96.169.59",
+            "userAgent": "Fight mother region article similar couple. Training sea me benefit world police whatever.\nMay action specific character writer. Yet push maybe accept piece phone thank.",
+            "deviceId": "6deccd83-d6c7-472f-9eeb-7fb1e24ce41f"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.889755+00:00",
+      "_drift_applied": [
+        "add_column",
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "28394c90-4086-47f5-842c-4e4e6c7928ae",
+      "publishTime": "2025-12-24T02:23:43.889783+00:00",
+      "payload": {
+        "sessionId": "db29587c-22ea-4f3b-a7ac-fa732c340f55",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Logout",
+          "applicationId": 44342,
+          "userId": "3bd1eca3-0c4c-46ee-ba4f-74ebd1e9c932",
+          "timestamp": "2025-12-24T02:23:43.889793+00:00",
+          "metadata": {
+            "ipAddress": "68.26.163.48",
+            "userAgent": "Nor officer attention major. Fight necessary trial win your foreign. Eat cell trial wind middle through candidate would.",
+            "deviceId": "b2282ab8-499a-467e-9479-d2afc93efe97"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.889855+00:00"
+    },
+    {
+      "messageId": "02b8d135-7245-4e96-80ff-9c080cc5e036",
+      "publishTime": "2025-12-24T02:23:43.889860+00:00",
+      "payload": {
+        "sessionId": "e46d6cb1-c2ca-4663-a4a4-966e416e4530",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 36069,
+          "userId": "24091ffe-5c67-4531-b51a-e3e92d9d2c67",
+          "timestamp": "2025-12-24T02:23:43.889868+00:00",
+          "metadata": {
+            "ipAddress": "95.57.21.196",
+            "userAgent": "Reduce almost somebody model development. Research prevent sister send.\nWest care candidate environment worker. Deep surface go effort.",
+            "deviceId": "f7a74086-36ca-4f39-9dba-0d2add6c6d71"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.889931+00:00",
+      "drift_test_col_8_ifvh": true,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "2b225850-872c-47a5-a2d5-24a803b1426f",
+      "publishTime": "2025-12-24T02:23:43.889947+00:00",
+      "payload": {
+        "sessionId": "50597240-6c60-4f78-8cd8-9c861a91106d",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 28244,
+          "userId": "00514f57-0057-422f-ac5b-4a2e10be2d8a",
+          "timestamp": "2025-12-24T02:23:43.891604+00:00",
+          "metadata": {
+            "ipAddress": "98.101.150.67",
+            "userAgent": "Short between pass action record instead. Small others write economic short score sell.\nProject democratic language. Be center interesting.",
+            "deviceId": "c8ca639c-2940-402c-8fff-40798a5dc73a"
+          }
+        }
+      },
+      "_batch_id": "d486da19",
+      "_generated_at": "2025-12-24T02:23:43.891707+00:00",
+      "drift_test_col_13_icqx": 6536.58,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "639cd50f-9984-4f46-a429-e0585324895a",
+      "publishTime": "2025-12-24T02:23:43.891720+00:00",
+      "_generated_at": "2025-12-24T02:23:43.891790+00:00",
+      "payload": {
+        "sessionId": "732fc56b-4b4e-452b-ba40-092c5fef3fb4",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Click",
+          "applicationId": 8150,
+          "userId": "727ab42b-6061-47a8-9e7b-75e5ad099742",
+          "timestamp": "2025-12-24T02:23:43.891729+00:00",
+          "metadata": {
+            "ipAddress": "176.2.81.28",
+            "userAgent": "Miss talk ready. Sister room agree effort floor instead.\nSound place stay respond. Money show sort court charge deep.",
+            "deviceId": "0cdaad63-d085-4ba5-96ff-0047c3f22120"
+          }
+        }
+      },
+      "_batch_id": 8,
+      "_drift_applied": [
+        "reorder",
+        "type_change"
+      ]
+    }
+  ]
+}

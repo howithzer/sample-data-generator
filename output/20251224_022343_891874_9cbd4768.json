@@ -1,0 +1,345 @@
+{
+  "batch_id": "9cbd4768",
+  "record_count": 15,
+  "records": [
+    {
+      "messageId": "4d029e03-a566-40e2-a21e-5cb2615f12db",
+      "publishTime": "2025-12-24T02:23:43.889958+00:00",
+      "payload": {
+        "sessionId": "67494a51-6af6-4baf-9faa-072875851094",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 74459,
+          "userId": "1f8453de-1626-47ba-85ca-7d9ec513a715",
+          "timestamp": "2025-12-24T02:23:43.889969+00:00",
+          "metadata": {
+            "ipAddress": "134.23.203.210",
+            "userAgent": "Analysis develop central world somebody same. Capital before deep. Argue help member.\nMost west seek blue. Step wait make glass usually really edge. Deal bring little forget when consider.",
+            "deviceId": "1a62de49-cf90-435a-9c8f-47e0993785cc"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": 32,
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "72c72abb-185f-4acf-a943-9d8cff9be7a8",
+      "publishTime": "2025-12-24T02:23:43.890057+00:00",
+      "payload": {
+        "sessionId": "778ac144-141a-4957-a629-105e81ba926b",
+        "event": {
+          "verb": "GET",
+          "eventType": "Logout",
+          "applicationId": 72321,
+          "userId": "b1e95ab6-c166-4855-947e-97c88ad429d8",
+          "timestamp": "2025-12-24T02:23:43.890066+00:00",
+          "metadata": {
+            "ipAddress": "6.9.242.203",
+            "userAgent": "Service add one dog heart defense. Standard including majority carry be pressure in.\nInterview red fill father current. Expert against animal care on.",
+            "deviceId": "47b61f46-deb6-434e-99a8-1bdfd6aa0ef6"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890125+00:00"
+    },
+    {
+      "messageId": "d3b6809a-a5f7-47c5-8f52-60699c21156a",
+      "publishTime": "2025-12-24T02:23:43.890129+00:00",
+      "payload": {
+        "sessionId": "ad017d56-a207-4a14-a161-92ef8acdae28",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 12162,
+          "userId": "d43414bd-4f16-40c6-b37a-869836d6411c",
+          "timestamp": "2025-12-24T02:23:43.890138+00:00",
+          "metadata": {
+            "ipAddress": "156.35.51.112",
+            "userAgent": "Nearly suffer player look. Actually me he voice represent speech too. Himself follow yes four fill war. Room staff environment popular.\nEconomic night police me.",
+            "deviceId": "8fec6782-a06c-4de0-8d1f-54eec38cbcb7"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890212+00:00"
+    },
+    {
+      "messageId": "d3b6809a-a5f7-47c5-8f52-60699c21156a",
+      "publishTime": "2025-12-24T02:23:43.890129+00:00",
+      "payload": {
+        "sessionId": "ad017d56-a207-4a14-a161-92ef8acdae28",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 12162,
+          "userId": "d43414bd-4f16-40c6-b37a-869836d6411c",
+          "timestamp": "2025-12-24T02:23:43.890138+00:00",
+          "metadata": {
+            "ipAddress": "156.35.51.112",
+            "userAgent": "Nearly suffer player look. Actually me he voice represent speech too. Himself follow yes four fill war. Room staff environment popular.\nEconomic night police me.",
+            "deviceId": "8fec6782-a06c-4de0-8d1f-54eec38cbcb7"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890212+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "d3b6809a-a5f7-47c5-8f52-60699c21156a",
+      "publishTime": "2025-12-24T02:23:43.890129+00:00",
+      "payload": {
+        "sessionId": "ad017d56-a207-4a14-a161-92ef8acdae28",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 12162,
+          "userId": "d43414bd-4f16-40c6-b37a-869836d6411c",
+          "timestamp": "2025-12-24T02:23:43.890138+00:00",
+          "metadata": {
+            "ipAddress": "156.35.51.112",
+            "userAgent": "Nearly suffer player look. Actually me he voice represent speech too. Himself follow yes four fill war. Room staff environment popular.\nEconomic night police me.",
+            "deviceId": "8fec6782-a06c-4de0-8d1f-54eec38cbcb7"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890212+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "d3b6809a-a5f7-47c5-8f52-60699c21156a",
+      "publishTime": "2025-12-24T02:23:43.890129+00:00",
+      "payload": {
+        "sessionId": "ad017d56-a207-4a14-a161-92ef8acdae28",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 12162,
+          "userId": "d43414bd-4f16-40c6-b37a-869836d6411c",
+          "timestamp": "2025-12-24T02:23:43.890138+00:00",
+          "metadata": {
+            "ipAddress": "156.35.51.112",
+            "userAgent": "Nearly suffer player look. Actually me he voice represent speech too. Himself follow yes four fill war. Room staff environment popular.\nEconomic night police me.",
+            "deviceId": "8fec6782-a06c-4de0-8d1f-54eec38cbcb7"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890212+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "92a39641-7267-4ed2-8f6b-d35bca847d65",
+      "publishTime": "2025-12-24T02:23:43.890228+00:00",
+      "payload": {
+        "sessionId": "9cc2ae21-3a70-47df-a51c-4ccd61aec57d",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 72336,
+          "userId": "d6dac104-9d85-45f8-b90b-59b80f9f996b",
+          "timestamp": "2025-12-24T02:23:43.890237+00:00",
+          "metadata": {
+            "ipAddress": "55.98.104.201",
+            "userAgent": "Community break machine. Party candidate enter buy now good others price. Girl natural about while natural.",
+            "deviceId": "c41c6148-65b9-414c-9c9a-42320fb4ff82"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890293+00:00"
+    },
+    {
+      "messageId": "92a39641-7267-4ed2-8f6b-d35bca847d65",
+      "publishTime": "2025-12-24T02:23:43.890228+00:00",
+      "payload": {
+        "sessionId": "9cc2ae21-3a70-47df-a51c-4ccd61aec57d",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 72336,
+          "userId": "d6dac104-9d85-45f8-b90b-59b80f9f996b",
+          "timestamp": "2025-12-24T02:23:43.890237+00:00",
+          "metadata": {
+            "ipAddress": "55.98.104.201",
+            "userAgent": "Community break machine. Party candidate enter buy now good others price. Girl natural about while natural.",
+            "deviceId": "c41c6148-65b9-414c-9c9a-42320fb4ff82"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890293+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "92a39641-7267-4ed2-8f6b-d35bca847d65",
+      "publishTime": "2025-12-24T02:23:43.890228+00:00",
+      "payload": {
+        "sessionId": "9cc2ae21-3a70-47df-a51c-4ccd61aec57d",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 72336,
+          "userId": "d6dac104-9d85-45f8-b90b-59b80f9f996b",
+          "timestamp": "2025-12-24T02:23:43.890237+00:00",
+          "metadata": {
+            "ipAddress": "55.98.104.201",
+            "userAgent": "Community break machine. Party candidate enter buy now good others price. Girl natural about while natural.",
+            "deviceId": "c41c6148-65b9-414c-9c9a-42320fb4ff82"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890293+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "23acc053-e4f4-483e-a8a2-4299bf4d8d5f",
+      "publishTime": "2025-12-24T02:23:43.890305+00:00",
+      "payload": {
+        "sessionId": "dcc7b867-70a8-4711-94d3-e6efad667b10",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Heartbeat",
+          "applicationId": 6891,
+          "userId": "10d73cf1-256e-4a91-834a-7bb7d585a4c4",
+          "timestamp": "2025-12-24T02:23:43.890314+00:00",
+          "metadata": {
+            "ipAddress": "212.194.11.22",
+            "userAgent": "It its trade wind movement throw account. Friend nice south human.\nYeah free marriage movement nation. By know page test. At fast just away range involve threat.",
+            "deviceId": "7b002181-bece-4e87-bfdb-77fbfd875d0c"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890380+00:00"
+    },
+    {
+      "messageId": "5e8ba38f-bccb-47d2-b8ad-8deb5c9c68dd",
+      "publishTime": "2025-12-24T02:23:43.890385+00:00",
+      "payload": {
+        "sessionId": "db7fafdd-e640-4b31-802d-d92e34f76fdc",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Click",
+          "applicationId": 40124,
+          "userId": "fb7a44a0-553a-4113-a899-f217524d5551",
+          "timestamp": "2025-12-24T02:23:43.890393+00:00",
+          "metadata": {
+            "ipAddress": "94.85.225.205",
+            "userAgent": "Attention region travel interest add. Vote doctor bit similar food above.\nResponse five sit benefit medical. Foot guess sea note.",
+            "deviceId": "c0339f33-d2e2-48ec-a9e0-c1e2b978d92d"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890458+00:00",
+      "drift_test_col_10_ykrg": "2564.04",
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "e144a6f9-406b-4a27-bc1e-69416ffff8c0",
+      "publishTime": "2025-12-24T02:23:43.890471+00:00",
+      "payload": {
+        "sessionId": "11290c7b-d955-4755-8a01-1bb6490f8a6f",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 65904,
+          "userId": "f52675e5-15cc-4d1c-863e-15862e81b907",
+          "timestamp": "2025-12-24T02:23:43.890480+00:00",
+          "metadata": {
+            "ipAddress": "72.3.197.236",
+            "userAgent": "Which modern day smile. Red guy war center receive.\nPerson blood show serious conference our. Road manage look pay job.",
+            "deviceId": "df01e62f-85d3-4792-899a-da1c7acd316a"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890542+00:00",
+      "drift_test_col_11_ccyp": 93661,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "52716d9a-8d56-4141-9ee7-78b28bf1cd87",
+      "publishTime": "2025-12-24T02:23:43.890556+00:00",
+      "payload": {
+        "sessionId": "9cdc0d59-a833-40cd-aed7-57ac0901c724",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 95320,
+          "userId": "7e761d01-3d15-4d4c-b543-93bfc62b27b8",
+          "timestamp": "2025-12-24T02:23:43.890566+00:00",
+          "metadata": {
+            "ipAddress": "120.161.155.130",
+            "userAgent": "Program without everyone speak against. What soldier sound over true baby plant.\nMrs represent present with here lead free.",
+            "deviceId": "71f91205-3792-4243-8013-227db2d69ce3"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890617+00:00"
+    },
+    {
+      "messageId": "99110210-5193-4926-a71f-fad934e27632",
+      "publishTime": "2025-12-24T02:23:43.890621+00:00",
+      "payload": {
+        "sessionId": "153bf7b3-4ea3-40ce-a689-fc02fb6d2ce6",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 58859,
+          "userId": "ac1a5c59-1293-40d6-a8eb-9302add930c0",
+          "timestamp": "2025-12-24T02:23:43.890629+00:00",
+          "metadata": {
+            "ipAddress": "105.189.189.113",
+            "userAgent": "Customer national visit so direction. While glass site better.\nSince if whole result sign keep. Box member professional indicate answer TV.\nMost shoulder forget reason phone.\nEvening impact want.",
+            "deviceId": "f2064f6c-7d2c-4878-a1c9-e1d456766df6"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890696+00:00"
+    },
+    {
+      "messageId": "8ce76113-6ef9-4090-80b0-b213b1385982",
+      "publishTime": "2025-12-24T02:23:43.890700+00:00",
+      "payload": {
+        "sessionId": "e5a990c5-0dcf-432d-987c-fea6afce4ceb",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 70663,
+          "userId": "9b5ba2ce-ca0b-4c10-93e6-ae47d3ee0c33",
+          "timestamp": "2025-12-24T02:23:43.890708+00:00",
+          "metadata": {
+            "ipAddress": "207.7.82.180",
+            "userAgent": "Today health major agency former. Drug foot degree mention issue marriage.\nCertain economy employee hospital human.\nHowever increase race PM measure save. High choice become beat house knowledge.",
+            "deviceId": "1e6d94fd-26c8-4103-9f74-a458cf4f3331"
+          }
+        }
+      },
+      "_batch_id": "9cbd4768",
+      "_generated_at": "2025-12-24T02:23:43.890771+00:00"
+    }
+  ]
+}

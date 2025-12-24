@@ -1,0 +1,291 @@
+{
+  "batch_id": "c74d17ef",
+  "record_count": 13,
+  "records": [
+    {
+      "messageId": "810f5eb6-d5c9-43e9-916c-d746ad8c88ab",
+      "publishTime": "2025-12-24T02:20:48.624315+00:00",
+      "payload": {
+        "sessionId": "2f4bf5cf-8338-4d9f-8a15-ffcf865fb1dc",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 40244,
+          "userId": "61a3dae2-c38f-40eb-aafd-7e4afeee9c25",
+          "timestamp": "2025-12-24T02:20:48.629654+00:00",
+          "metadata": {
+            "ipAddress": "35.251.211.219",
+            "userAgent": "She something capital site important office create. Say make chair worker to somebody. Matter example choose set system. View where foreign kitchen.",
+            "deviceId": "70663547-ffda-4663-9b54-0e12079f3401"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.629743+00:00"
+    },
+    {
+      "messageId": "b3385f1d-86b2-4e05-b5a1-81eabdf0d542",
+      "publishTime": "2025-12-24T02:20:48.629767+00:00",
+      "payload": {
+        "sessionId": "ff398f65-668a-4934-b798-3bcebc1365dc",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Click",
+          "applicationId": 34048,
+          "userId": "19b9feff-636c-4c5e-af6d-6ea3e9fd94e6",
+          "timestamp": "2025-12-24T02:20:48.629797+00:00",
+          "metadata": {
+            "ipAddress": "176.165.27.111",
+            "userAgent": "Population boy door security. Time yourself total sign lawyer certainly use. Sign field consumer against. Painting indicate Republican.\nAgency same do run. Magazine crime realize measure use.",
+            "deviceId": "47ecedd4-271b-47b7-b99b-39492860e4c7"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.629896+00:00"
+    },
+    {
+      "messageId": "e31fafe9-c917-451c-9e2f-ab48a768b9ce",
+      "publishTime": "2025-12-24T02:20:48.629905+00:00",
+      "payload": {
+        "sessionId": "c2e60063-eb6d-4367-aaea-d98207147830",
+        "event": {
+          "verb": "POST",
+          "eventType": "Logout",
+          "applicationId": 19897,
+          "userId": "aa91ac4c-a71b-4213-b4fa-c306eb72a0fc",
+          "timestamp": "2025-12-24T02:20:48.629920+00:00",
+          "metadata": {
+            "ipAddress": "171.32.181.6",
+            "userAgent": "Seat soon partner low identify rock direction. Certainly increase travel network memory.",
+            "deviceId": "b2f947b9-d998-4aa8-bee6-42c2f6981582"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.629986+00:00"
+    },
+    {
+      "messageId": "93fee662-d279-4220-a0fb-ea5cb686ec2c",
+      "publishTime": "2025-12-24T02:20:48.629991+00:00",
+      "payload": {
+        "sessionId": "c49dbaf0-eed6-4437-be3a-69a938092b13",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Transaction",
+          "applicationId": 33767,
+          "userId": "dbc86dd1-8f64-4a55-bb6a-456be5acb3e6",
+          "timestamp": "2025-12-24T02:20:48.630002+00:00",
+          "metadata": {
+            "ipAddress": "184.34.233.5",
+            "userAgent": "Add improve its own prevent. Organization agree worry test discuss. Have send building trade why hair vote.\nConcern inside check theory. Training including cup cover free analysis.",
+            "deviceId": "a22bca11-5905-48b1-b67e-7df0a8988908"
+          }
+        }
+      },
+      "_generated_at": "2025-12-24T02:20:48.630073+00:00",
+      "_drift_applied": [
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "1db220e0-fecf-4419-8902-e4a891e81dbb",
+      "publishTime": "2025-12-24T02:20:48.630086+00:00",
+      "payload": {
+        "sessionId": "a9194835-1359-4213-94d3-a28fade56441",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 92469,
+          "userId": "1a87689f-84c6-4e86-b254-e37fd121ed5f",
+          "timestamp": "2025-12-24T02:20:48.630095+00:00",
+          "metadata": {
+            "ipAddress": "19.120.55.99",
+            "userAgent": "Hold join wide activity director southern theory. Message character sort build site. Beautiful family either simply.\nReach not magazine miss pressure third rock. Two piece cold among amount.",
+            "deviceId": "e115a715-a890-4b48-9366-5f11846863cb"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630155+00:00"
+    },
+    {
+      "messageId": "1db220e0-fecf-4419-8902-e4a891e81dbb",
+      "publishTime": "2025-12-24T02:20:48.630086+00:00",
+      "payload": {
+        "sessionId": "a9194835-1359-4213-94d3-a28fade56441",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 92469,
+          "userId": "1a87689f-84c6-4e86-b254-e37fd121ed5f",
+          "timestamp": "2025-12-24T02:20:48.630095+00:00",
+          "metadata": {
+            "ipAddress": "19.120.55.99",
+            "userAgent": "Hold join wide activity director southern theory. Message character sort build site. Beautiful family either simply.\nReach not magazine miss pressure third rock. Two piece cold among amount.",
+            "deviceId": "e115a715-a890-4b48-9366-5f11846863cb"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630155+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "1db220e0-fecf-4419-8902-e4a891e81dbb",
+      "publishTime": "2025-12-24T02:20:48.630086+00:00",
+      "payload": {
+        "sessionId": "a9194835-1359-4213-94d3-a28fade56441",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 92469,
+          "userId": "1a87689f-84c6-4e86-b254-e37fd121ed5f",
+          "timestamp": "2025-12-24T02:20:48.630095+00:00",
+          "metadata": {
+            "ipAddress": "19.120.55.99",
+            "userAgent": "Hold join wide activity director southern theory. Message character sort build site. Beautiful family either simply.\nReach not magazine miss pressure third rock. Two piece cold among amount.",
+            "deviceId": "e115a715-a890-4b48-9366-5f11846863cb"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630155+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "1db220e0-fecf-4419-8902-e4a891e81dbb",
+      "publishTime": "2025-12-24T02:20:48.630086+00:00",
+      "payload": {
+        "sessionId": "a9194835-1359-4213-94d3-a28fade56441",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 92469,
+          "userId": "1a87689f-84c6-4e86-b254-e37fd121ed5f",
+          "timestamp": "2025-12-24T02:20:48.630095+00:00",
+          "metadata": {
+            "ipAddress": "19.120.55.99",
+            "userAgent": "Hold join wide activity director southern theory. Message character sort build site. Beautiful family either simply.\nReach not magazine miss pressure third rock. Two piece cold among amount.",
+            "deviceId": "e115a715-a890-4b48-9366-5f11846863cb"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630155+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "f86b8d1e-2f96-4330-9a4a-6f4af88f030f",
+      "publishTime": "2025-12-24T02:20:48.630171+00:00",
+      "payload": {
+        "sessionId": "fc5f6f78-1121-4c66-b82c-58c20b4e0e03",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 10403,
+          "userId": "757f844c-dabd-461b-926e-5a90f1a0ce93",
+          "timestamp": "2025-12-24T02:20:48.630180+00:00",
+          "metadata": {
+            "ipAddress": "41.4.222.68",
+            "userAgent": "Fish and degree less describe. Weight price as need. Style dog board organization data wait. Including personal sometimes physical religious major TV responsibility.",
+            "deviceId": "76d92996-b784-4451-87c6-d45cc1135cea"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630240+00:00",
+      "drift_test_col_3_kwsk": 72952,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "6e40041c-7ab1-40ca-9af4-10a6989b2551",
+      "publishTime": "2025-12-24T02:20:48.630253+00:00",
+      "payload": {
+        "sessionId": "4d455a13-58b8-469d-9d21-6efa01efb54d",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 43369,
+          "userId": "f215f8d3-4538-46cd-8b4e-93727c7e3d3c",
+          "timestamp": "2025-12-24T02:20:48.630262+00:00",
+          "metadata": {
+            "ipAddress": "165.140.96.180",
+            "userAgent": "News than sister mother.\nCollege effect court large movement meet rule. Must east personal sister start.",
+            "deviceId": "841372b7-e416-4db0-baf4-d38c262f326a"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630321+00:00"
+    },
+    {
+      "messageId": "fef99f7e-3a0a-446e-b704-f41e9d98e25c",
+      "publishTime": "2025-12-24T02:20:48.630326+00:00",
+      "payload": {
+        "sessionId": "03294dec-009a-4d12-9ffa-a0c2b07d93d1",
+        "event": {
+          "verb": "POST",
+          "eventType": "Heartbeat",
+          "applicationId": 74616,
+          "userId": "82610c71-d0ae-4e98-99e4-4cab7eb60519",
+          "timestamp": "2025-12-24T02:20:48.630336+00:00",
+          "metadata": {
+            "ipAddress": "218.233.204.237",
+            "userAgent": "Anything organization mission compare station affect. Describe nearly view music. Yard white save.\nGirl occur raise reveal coach employee face. Main general word image well.",
+            "deviceId": "7c06a635-153f-4ccc-99bb-f5db49daf14f"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630402+00:00"
+    },
+    {
+      "messageId": "72b6e641-26b2-402b-b4be-4b9e5aa761ed",
+      "publishTime": "2025-12-24T02:20:48.630406+00:00",
+      "payload": {
+        "sessionId": "3547adab-f2d6-4efa-9297-013b10c0547b",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Login",
+          "applicationId": 85880,
+          "userId": "c6f9d60e-42e0-4308-9721-5ddfa7828dfb",
+          "timestamp": "2025-12-24T02:20:48.630415+00:00",
+          "metadata": {
+            "ipAddress": "5.51.234.142",
+            "userAgent": "Continue consider popular home push together. We particular you degree play send common. Bag drive support school east responsibility property.",
+            "deviceId": "8a4af5c2-8570-4ed9-b84b-952c0550470b"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630471+00:00"
+    },
+    {
+      "messageId": "2891ca66-64cd-4a6e-8c3b-77e686bba6f8",
+      "publishTime": "2025-12-24T02:20:48.630476+00:00",
+      "payload": {
+        "sessionId": "ecac4c4d-3a2b-4c61-bf9e-6d94028979bd",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 75166,
+          "userId": "48ad5485-a008-42b8-8ed5-712daef0c473",
+          "timestamp": "2025-12-24T02:20:48.630484+00:00",
+          "metadata": {
+            "ipAddress": "218.68.222.201",
+            "userAgent": "Loss black pretty practice mention environment view. Whose say deal minute. Discussion tell loss learn democratic begin.",
+            "deviceId": "eb65531b-252a-4e71-b7ed-a799743cb3b6"
+          }
+        }
+      },
+      "_batch_id": "c74d17ef",
+      "_generated_at": "2025-12-24T02:20:48.630534+00:00"
+    }
+  ]
+}

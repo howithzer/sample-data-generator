@@ -1,0 +1,293 @@
+{
+  "batch_id": "c2412d31",
+  "record_count": 12,
+  "records": [
+    {
+      "messageId": "2d73bf5f-8024-43c4-ac33-a689a5443740",
+      "publishTime": "2025-12-24T02:23:43.888161+00:00",
+      "payload": {
+        "sessionId": "67586b46-7ba3-40dd-ae6e-c03326d99f21",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 13864,
+          "userId": "4d9816d5-649d-400c-9136-8070888be166",
+          "timestamp": "2025-12-24T02:23:43.888728+00:00",
+          "metadata": {
+            "ipAddress": "42.4.145.131",
+            "userAgent": "Exist party hard old. Talk occur space sense sometimes least doctor. Wall its data have school whole store do.",
+            "deviceId": "7a200d8d-feab-4194-b956-a0d92032c9b0"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.888808+00:00"
+    },
+    {
+      "messageId": "83a39971-cef0-4bc6-bcde-05bf1af10a00",
+      "publishTime": "2025-12-24T02:23:43.888814+00:00",
+      "payload": {
+        "sessionId": "4e909f2b-5ba6-4a41-af6e-ffe93c417679",
+        "event": {
+          "verb": "POST",
+          "eventType": "PageView",
+          "applicationId": 59357,
+          "userId": "afbf46a8-45d4-408c-b507-eccca019125a",
+          "timestamp": "2025-12-24T02:23:43.888826+00:00",
+          "metadata": {
+            "ipAddress": "24.45.72.129",
+            "userAgent": "Finally include mother claim often though water tell. Near huge many event card spring despite once.\nHim join form people. Court society produce throughout toward anyone sound live.",
+            "deviceId": "bcf1360f-3b3e-4579-8a84-769e64251b5e"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.888896+00:00"
+    },
+    {
+      "messageId": "e52f8555-4414-416b-911b-a841a3c459c3",
+      "publishTime": "2025-12-24T02:23:43.888901+00:00",
+      "payload": {
+        "sessionId": "df33d58c-ea6f-4478-9607-c88a8ca44249",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 22204,
+          "userId": "af9078b5-1f3c-4680-8064-f65452c9038e",
+          "timestamp": "2025-12-24T02:23:43.888910+00:00",
+          "metadata": {
+            "ipAddress": "206.181.212.32",
+            "userAgent": "Realize would seven allow. The still town scene and person. Senior mention identify story offer protect fire.\nMuch across box common behavior guy former. Live true plant attention.",
+            "deviceId": "395927d8-7157-4915-8689-fd9237beaf42"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.888985+00:00",
+      "drift_test_col_2_ilgi": "enter",
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "426b70a9-0f34-49dd-9dcb-effd31946a43",
+      "publishTime": "2025-12-24T02:23:43.889008+00:00",
+      "payload": {
+        "sessionId": "3b0eb66d-cd2f-491c-bbd0-b979367e6baa",
+        "event": {
+          "verb": "POST",
+          "eventType": "Logout",
+          "applicationId": 86980,
+          "userId": "dd992e4e-48d9-4674-8ff3-827dd08dd382",
+          "timestamp": "2025-12-24T02:23:43.889017+00:00",
+          "metadata": {
+            "ipAddress": "92.143.86.125",
+            "userAgent": "Like each effort stock. Reduce spring focus her collection despite real. Treat purpose appear town capital challenge doctor second.",
+            "deviceId": "1306ab57-59b4-4e6d-bbc3-4d3b45ac0cb0"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889075+00:00",
+      "drift_test_col_3_rnjg": 9056.85,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "aaff15d9-6c44-4e12-967c-b491a0f3c054",
+      "publishTime": "2025-12-24T02:23:43.889089+00:00",
+      "payload": {
+        "sessionId": "02adf86b-3e64-4d06-821e-55238987ef17",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Heartbeat",
+          "applicationId": 39856,
+          "userId": "1dd921f0-c504-4111-bafe-ef6ffa1ef5c0",
+          "timestamp": "2025-12-24T02:23:43.889098+00:00",
+          "metadata": {
+            "ipAddress": "163.219.218.59",
+            "userAgent": "Even area network minute movement fund do. Question deal vote. These recent industry might oil by of say.\nGrow at soon born price consumer. Physical hot generation education.",
+            "deviceId": "55104e64-848c-40c4-af05-a22d0eb48335"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889175+00:00",
+      "drift_test_col_4_apzi": 58077,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "aaff15d9-6c44-4e12-967c-b491a0f3c054",
+      "publishTime": "2025-12-24T02:23:43.889089+00:00",
+      "payload": {
+        "sessionId": "02adf86b-3e64-4d06-821e-55238987ef17",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Heartbeat",
+          "applicationId": 39856,
+          "userId": "1dd921f0-c504-4111-bafe-ef6ffa1ef5c0",
+          "timestamp": "2025-12-24T02:23:43.889098+00:00",
+          "metadata": {
+            "ipAddress": "163.219.218.59",
+            "userAgent": "Even area network minute movement fund do. Question deal vote. These recent industry might oil by of say.\nGrow at soon born price consumer. Physical hot generation education.",
+            "deviceId": "55104e64-848c-40c4-af05-a22d0eb48335"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889175+00:00",
+      "drift_test_col_4_apzi": 58077,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "aaff15d9-6c44-4e12-967c-b491a0f3c054",
+      "publishTime": "2025-12-24T02:23:43.889089+00:00",
+      "payload": {
+        "sessionId": "02adf86b-3e64-4d06-821e-55238987ef17",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Heartbeat",
+          "applicationId": 39856,
+          "userId": "1dd921f0-c504-4111-bafe-ef6ffa1ef5c0",
+          "timestamp": "2025-12-24T02:23:43.889098+00:00",
+          "metadata": {
+            "ipAddress": "163.219.218.59",
+            "userAgent": "Even area network minute movement fund do. Question deal vote. These recent industry might oil by of say.\nGrow at soon born price consumer. Physical hot generation education.",
+            "deviceId": "55104e64-848c-40c4-af05-a22d0eb48335"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889175+00:00",
+      "drift_test_col_4_apzi": 58077,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "4c375531-e5e0-499f-8da2-52d95b9c1df3",
+      "publishTime": "2025-12-24T02:23:43.889198+00:00",
+      "payload": {
+        "sessionId": "f682d3f0-8ad8-4804-8b00-d6b919c28e10",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 22654,
+          "userId": "aadfa958-2717-4c48-9f74-9226cb8e1aba",
+          "timestamp": "2025-12-24T02:23:43.889206+00:00",
+          "metadata": {
+            "ipAddress": "16.208.14.15",
+            "userAgent": "Treatment fund term claim trip. Such green treatment class article.",
+            "deviceId": "a0d283ec-5e66-4f2d-bc60-d1d7a4cfc43e"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889264+00:00"
+    },
+    {
+      "messageId": "730d1618-53ba-4baf-adaa-da7a24e7c88d",
+      "publishTime": "2025-12-24T02:23:43.889268+00:00",
+      "payload": {
+        "sessionId": "2ec54ecb-4c79-41db-b676-6d5de2750111",
+        "event": {
+          "verb": "POST",
+          "eventType": "Login",
+          "applicationId": 69764,
+          "userId": "933801c0-df2c-4a4a-980f-e5dd8deed20c",
+          "timestamp": "2025-12-24T02:23:43.889276+00:00",
+          "metadata": {
+            "ipAddress": "112.13.218.191",
+            "userAgent": "Affect together become court thank. Agent financial way clearly front home a scene.",
+            "deviceId": "4b3ea6bb-3f7d-4b8d-8c84-8cdaf355c7e6"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "drift_test_col_5_hudl": "34272",
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "f05ada77-c88a-4764-8f81-a368bbf66f77",
+      "publishTime": "2025-12-24T02:23:43.889358+00:00",
+      "payload": {
+        "sessionId": "aa53b789-2c32-4f1c-8e50-c45d3ddf34fc",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 22040,
+          "userId": "3cfac9ab-5faf-4c77-b57f-00cc1e0f6af4",
+          "timestamp": "2025-12-24T02:23:43.889367+00:00",
+          "metadata": {
+            "ipAddress": "80.146.24.170",
+            "userAgent": "Key identify million. Its hold smile can. Sell number until small the.\nFast build decide least. Front right all. Southern north idea drive.",
+            "deviceId": "c957e202-aa63-496b-9a33-ee5d2a081c17"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889439+00:00"
+    },
+    {
+      "messageId": "4d4e9fdc-8fb5-4c84-b086-59d64eea337f",
+      "publishTime": "2025-12-24T02:23:43.889443+00:00",
+      "payload": {
+        "sessionId": "c9e72abc-b393-43eb-b339-3f3cd726148f",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 92528,
+          "userId": "b9480d5f-1aec-40b8-8975-2a753648ce73",
+          "timestamp": "2025-12-24T02:23:43.889452+00:00",
+          "metadata": {
+            "ipAddress": "158.139.91.127",
+            "userAgent": "Test upon girl. Hard several partner usually. Base memory program manager war material.",
+            "deviceId": "73ceeac7-e793-47e8-a4ac-0c6cc08f5e19"
+          }
+        }
+      },
+      "_batch_id": "c2412d31",
+      "_generated_at": "2025-12-24T02:23:43.889507+00:00"
+    },
+    {
+      "publishTime": "2025-12-24T02:23:43.889511+00:00",
+      "messageId": "352c2487-1469-44b3-9959-80e503ba4c40",
+      "payload": {
+        "sessionId": "e656f613-f7e7-4ff6-9315-7c13bc15480f",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 34094,
+          "userId": "3b5945b9-4c48-41bf-884f-dae10262e8a1",
+          "timestamp": "2025-12-24T02:23:43.889519+00:00",
+          "metadata": {
+            "ipAddress": "73.97.43.209",
+            "userAgent": "Bit friend according environment occur son and sea. Local economy more run rock nearly particularly.",
+            "deviceId": "2531e0c3-a8db-47df-abec-0a37b51c1ff6"
+          }
+        }
+      },
+      "drift_test_col_6_yiqk": 306.77,
+      "_batch_id": 8,
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "reorder",
+        "type_change"
+      ]
+    }
+  ]
+}

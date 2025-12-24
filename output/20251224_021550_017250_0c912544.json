@@ -1,0 +1,428 @@
+{
+  "batch_id": "0c912544",
+  "record_count": 17,
+  "records": [
+    {
+      "messageId": "84dfc5dc-d5e7-46b7-9097-d7a175dee8ba",
+      "publishTime": "2025-12-24T02:15:50.008201+00:00",
+      "payload": {
+        "sessionId": "2418507c-aec8-4762-981c-b9f3523d9a6f",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 76864,
+          "userId": "19ef6241-88a8-41bc-ba1c-743da548b23f",
+          "timestamp": "2025-12-24T02:15:50.008228+00:00",
+          "metadata": {
+            "ipAddress": "80.181.88.180",
+            "userAgent": "Order carry anything surface. Until part simple point opportunity. Take surface better clear or. Consumer place his our.",
+            "deviceId": "c7086016-b452-494e-a794-6f1146cdc463"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.012298+00:00",
+      "drift_test_col_1_cspu": false,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "5a3f4f14-9aa0-49df-89a0-ef7d6558ddd0",
+      "publishTime": "2025-12-24T02:15:50.012322+00:00",
+      "payload": {
+        "sessionId": "ecba758a-65cd-4466-ab48-36ee2e32eb49",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Heartbeat",
+          "applicationId": 95454,
+          "userId": "f69c87d5-8338-4265-8cf6-1e2198858d5d",
+          "timestamp": "2025-12-24T02:15:50.012337+00:00",
+          "metadata": {
+            "ipAddress": "56.97.183.225",
+            "userAgent": "Charge first despite just enough. Author let respond game. Night science when war reach I necessary.",
+            "deviceId": "5960cf7a-b8ef-4b69-a9a0-00a6f76b7c65"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016220+00:00"
+    },
+    {
+      "messageId": "b6be6427-d749-4a35-9d80-8af839cd3c00",
+      "publishTime": "2025-12-24T02:15:50.016226+00:00",
+      "payload": {
+        "sessionId": "27f1841d-286b-46a9-9460-9340ffb29908",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 25108,
+          "userId": "0166dcd6-3d8c-4282-823a-a1bbbb105866",
+          "timestamp": "2025-12-24T02:15:50.016235+00:00",
+          "metadata": {
+            "ipAddress": "38.16.54.55",
+            "userAgent": "Walk program fall him around son. Decide real standard nice than at alone.\nDefense although standard chair hand specific near.",
+            "deviceId": "71aead7a-8dd0-4fda-931c-d3e323039058"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016294+00:00"
+    },
+    {
+      "messageId": "b6be6427-d749-4a35-9d80-8af839cd3c00",
+      "publishTime": "2025-12-24T02:15:50.016226+00:00",
+      "payload": {
+        "sessionId": "27f1841d-286b-46a9-9460-9340ffb29908",
+        "event": {
+          "verb": "GET",
+          "eventType": "Login",
+          "applicationId": 25108,
+          "userId": "0166dcd6-3d8c-4282-823a-a1bbbb105866",
+          "timestamp": "2025-12-24T02:15:50.016235+00:00",
+          "metadata": {
+            "ipAddress": "38.16.54.55",
+            "userAgent": "Walk program fall him around son. Decide real standard nice than at alone.\nDefense although standard chair hand specific near.",
+            "deviceId": "71aead7a-8dd0-4fda-931c-d3e323039058"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016294+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "086d122e-7100-4712-8593-2c0315ed7d0b",
+      "publishTime": "2025-12-24T02:15:50.016303+00:00",
+      "payload": {
+        "sessionId": "f95da396-a89e-4576-a584-43665016f90d",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 83241,
+          "userId": "ffa67615-64c6-494a-a437-043140cb054f",
+          "timestamp": "2025-12-24T02:15:50.016311+00:00",
+          "metadata": {
+            "ipAddress": "92.206.141.184",
+            "userAgent": "Air rule door something rest audience some no. Receive president main itself sign. Option away suffer trip moment carry.",
+            "deviceId": "6e180df6-21db-4a28-a881-7555b9087a0a"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016363+00:00",
+      "drift_test_col_9_faok": "minute",
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "086d122e-7100-4712-8593-2c0315ed7d0b",
+      "publishTime": "2025-12-24T02:15:50.016303+00:00",
+      "payload": {
+        "sessionId": "f95da396-a89e-4576-a584-43665016f90d",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 83241,
+          "userId": "ffa67615-64c6-494a-a437-043140cb054f",
+          "timestamp": "2025-12-24T02:15:50.016311+00:00",
+          "metadata": {
+            "ipAddress": "92.206.141.184",
+            "userAgent": "Air rule door something rest audience some no. Receive president main itself sign. Option away suffer trip moment carry.",
+            "deviceId": "6e180df6-21db-4a28-a881-7555b9087a0a"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016363+00:00",
+      "drift_test_col_9_faok": "minute",
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "086d122e-7100-4712-8593-2c0315ed7d0b",
+      "publishTime": "2025-12-24T02:15:50.016303+00:00",
+      "payload": {
+        "sessionId": "f95da396-a89e-4576-a584-43665016f90d",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 83241,
+          "userId": "ffa67615-64c6-494a-a437-043140cb054f",
+          "timestamp": "2025-12-24T02:15:50.016311+00:00",
+          "metadata": {
+            "ipAddress": "92.206.141.184",
+            "userAgent": "Air rule door something rest audience some no. Receive president main itself sign. Option away suffer trip moment carry.",
+            "deviceId": "6e180df6-21db-4a28-a881-7555b9087a0a"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016363+00:00",
+      "drift_test_col_9_faok": "minute",
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "086d122e-7100-4712-8593-2c0315ed7d0b",
+      "publishTime": "2025-12-24T02:15:50.016303+00:00",
+      "payload": {
+        "sessionId": "f95da396-a89e-4576-a584-43665016f90d",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 83241,
+          "userId": "ffa67615-64c6-494a-a437-043140cb054f",
+          "timestamp": "2025-12-24T02:15:50.016311+00:00",
+          "metadata": {
+            "ipAddress": "92.206.141.184",
+            "userAgent": "Air rule door something rest audience some no. Receive president main itself sign. Option away suffer trip moment carry.",
+            "deviceId": "6e180df6-21db-4a28-a881-7555b9087a0a"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016363+00:00",
+      "drift_test_col_9_faok": "minute",
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "617c6670-de2f-4879-a2b3-f1f5ffbd6534",
+      "publishTime": "2025-12-24T02:15:50.016393+00:00",
+      "payload": {
+        "sessionId": "73ee2402-8374-42e4-ba0c-0701e56934b4",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 68804,
+          "userId": "9373f71d-f34b-46f6-8f7d-81e19969c794",
+          "timestamp": "2025-12-24T02:15:50.016402+00:00",
+          "metadata": {
+            "ipAddress": "45.55.207.31",
+            "userAgent": "Whole then share half. Method first building reason at your picture yard. Paper individual relate opportunity.",
+            "deviceId": "8d1cfbb8-7b78-4906-a8a2-4a29706e5f76"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016459+00:00"
+    },
+    {
+      "messageId": "98e223c2-ef56-4295-9a82-4399fd2a8def",
+      "publishTime": "2025-12-24T02:15:50.016463+00:00",
+      "payload": {
+        "sessionId": "a7fa5d55-2e67-48f6-acb0-7eba82b67aae",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Transaction",
+          "applicationId": 44829,
+          "userId": "bdb52d2c-591d-4b43-9a7e-22fb5fb7d10c",
+          "timestamp": "2025-12-24T02:15:50.016471+00:00",
+          "metadata": {
+            "ipAddress": "67.136.84.159",
+            "userAgent": "Soldier visit everything professional.\nSouthern field science sense produce factor. Site letter anything customer. Offer available table add.",
+            "deviceId": "b2281d23-00e1-4ec2-85a5-8c01570053e6"
+          }
+        }
+      },
+      "_generated_at": "2025-12-24T02:15:50.016537+00:00",
+      "drift_test_col_10_pets": 85574,
+      "_drift_applied": [
+        "add_column",
+        "delete_column"
+      ]
+    },
+    {
+      "_generated_at": "2025-12-24T02:15:50.016609+00:00",
+      "drift_test_col_11_bvzc": "95544",
+      "_batch_id": "0c912544",
+      "publishTime": "2025-12-24T02:15:50.016549+00:00",
+      "messageId": "0cbd60da-3aba-4168-b87e-07e2667315cd",
+      "payload": {
+        "sessionId": "23729b86-4237-4b66-bb2d-e8bb612e9b4e",
+        "event": {
+          "verb": "POST",
+          "eventType": "Click",
+          "applicationId": 33802,
+          "userId": "d49220fb-9c61-4e4e-86d9-7605e6675c4c",
+          "timestamp": "2025-12-24T02:15:50.016558+00:00",
+          "metadata": {
+            "ipAddress": "192.22.237.77",
+            "userAgent": "Run season suddenly major treat team together. Article myself view phone always science reality road.",
+            "deviceId": "bff5f7e9-c401-4e8c-827d-1d39c5d4828a"
+          }
+        }
+      },
+      "_drift_applied": [
+        "add_column",
+        "reorder",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "a13f8a3a-199f-4586-b756-e48e99d5f524",
+      "publishTime": "2025-12-24T02:15:50.016623+00:00",
+      "payload": {
+        "sessionId": "3d0c4dc0-ac81-4ef3-a7ef-92060ca45937",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 2272,
+          "userId": "dfe0cf85-40d2-4b2d-b648-0161fef68f0d",
+          "timestamp": "2025-12-24T02:15:50.016631+00:00",
+          "metadata": {
+            "ipAddress": "210.128.79.189",
+            "userAgent": "Center hear away strong. Ago two admit side leave draw year education. Ever wrong mean report.",
+            "deviceId": "96507eb4-5949-49f1-926a-7ce2883e0e04"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016688+00:00",
+      "drift_test_col_12_pgbn": "True",
+      "_drift_applied": [
+        "add_column",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "a21e1950-9066-4878-b571-5fe36be5474b",
+      "publishTime": "2025-12-24T02:15:50.016700+00:00",
+      "payload": {
+        "sessionId": "97b226f7-ea1e-4e1e-bfac-da90aec7ebe1",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 91128,
+          "userId": "acae82e4-f9aa-4e39-b5ef-7be248c194b2",
+          "timestamp": "2025-12-24T02:15:50.016709+00:00",
+          "metadata": {
+            "ipAddress": "218.244.203.222",
+            "userAgent": "Boy degree open rule everyone. Seat answer fly safe. Recognize scientist film together.\nSix us ball weight authority thing. Take skill amount stage child think close goal.",
+            "deviceId": "5fc05e61-1d78-424f-a086-59a3330be3f8"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016769+00:00",
+      "drift_test_col_13_npuw": true,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "a21e1950-9066-4878-b571-5fe36be5474b",
+      "publishTime": "2025-12-24T02:15:50.016700+00:00",
+      "payload": {
+        "sessionId": "97b226f7-ea1e-4e1e-bfac-da90aec7ebe1",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 91128,
+          "userId": "acae82e4-f9aa-4e39-b5ef-7be248c194b2",
+          "timestamp": "2025-12-24T02:15:50.016709+00:00",
+          "metadata": {
+            "ipAddress": "218.244.203.222",
+            "userAgent": "Boy degree open rule everyone. Seat answer fly safe. Recognize scientist film together.\nSix us ball weight authority thing. Take skill amount stage child think close goal.",
+            "deviceId": "5fc05e61-1d78-424f-a086-59a3330be3f8"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016769+00:00",
+      "drift_test_col_13_npuw": true,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "a21e1950-9066-4878-b571-5fe36be5474b",
+      "publishTime": "2025-12-24T02:15:50.016700+00:00",
+      "payload": {
+        "sessionId": "97b226f7-ea1e-4e1e-bfac-da90aec7ebe1",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 91128,
+          "userId": "acae82e4-f9aa-4e39-b5ef-7be248c194b2",
+          "timestamp": "2025-12-24T02:15:50.016709+00:00",
+          "metadata": {
+            "ipAddress": "218.244.203.222",
+            "userAgent": "Boy degree open rule everyone. Seat answer fly safe. Recognize scientist film together.\nSix us ball weight authority thing. Take skill amount stage child think close goal.",
+            "deviceId": "5fc05e61-1d78-424f-a086-59a3330be3f8"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016769+00:00",
+      "drift_test_col_13_npuw": true,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "a21e1950-9066-4878-b571-5fe36be5474b",
+      "publishTime": "2025-12-24T02:15:50.016700+00:00",
+      "payload": {
+        "sessionId": "97b226f7-ea1e-4e1e-bfac-da90aec7ebe1",
+        "event": {
+          "verb": "GET",
+          "eventType": "Heartbeat",
+          "applicationId": 91128,
+          "userId": "acae82e4-f9aa-4e39-b5ef-7be248c194b2",
+          "timestamp": "2025-12-24T02:15:50.016709+00:00",
+          "metadata": {
+            "ipAddress": "218.244.203.222",
+            "userAgent": "Boy degree open rule everyone. Seat answer fly safe. Recognize scientist film together.\nSix us ball weight authority thing. Take skill amount stage child think close goal.",
+            "deviceId": "5fc05e61-1d78-424f-a086-59a3330be3f8"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016769+00:00",
+      "drift_test_col_13_npuw": true,
+      "_drift_applied": [
+        "add_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "3b60439b-a840-46c3-ac3d-5dde5ff9e6b0",
+      "publishTime": "2025-12-24T02:15:50.016793+00:00",
+      "payload": {
+        "sessionId": "ab85a4f4-c530-4ff9-a329-5430edc9a658",
+        "event": {
+          "verb": "POST",
+          "eventType": "Transaction",
+          "applicationId": 94390,
+          "userId": "c3a41135-dfca-4b05-bd00-680d7638f893",
+          "timestamp": "2025-12-24T02:15:50.016801+00:00",
+          "metadata": {
+            "ipAddress": "60.204.234.212",
+            "userAgent": "Conference us effort try newspaper. Quality when behind himself. Reach newspaper raise control.\nWhere nation suffer call forget week face power. Big stage life industry.",
+            "deviceId": "f0d0f3aa-fe5c-40d6-8f21-95132ccda6e7"
+          }
+        }
+      },
+      "_batch_id": "0c912544",
+      "_generated_at": "2025-12-24T02:15:50.016868+00:00"
+    }
+  ]
+}

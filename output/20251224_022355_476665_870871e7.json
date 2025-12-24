@@ -1,0 +1,381 @@
+{
+  "batch_id": "870871e7",
+  "record_count": 16,
+  "records": [
+    {
+      "messageId": "30af5bc4-8737-4c44-afe3-f7f0928a92d7",
+      "publishTime": "2025-12-24T02:23:55.472838+00:00",
+      "payload": {
+        "sessionId": "3f168195-16db-4070-8560-7542ddc91750",
+        "event": {
+          "verb": "PUT",
+          "eventType": "PageView",
+          "applicationId": 34823,
+          "userId": "5f200333-0209-4269-a6fa-029b1c6c233c",
+          "timestamp": "2025-12-24T02:23:55.472849+00:00",
+          "metadata": {
+            "ipAddress": "149.240.250.218",
+            "userAgent": "Painting give occur she attention. Thus role collection figure change girl interview.\nTraining value improve allow size continue. She lawyer word maintain. Once yet central opportunity possible.",
+            "deviceId": "fd666ecd-4ab4-4e05-98ce-58cd08aa650b"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.472922+00:00"
+    },
+    {
+      "messageId": "30af5bc4-8737-4c44-afe3-f7f0928a92d7",
+      "publishTime": "2025-12-24T02:23:55.472838+00:00",
+      "payload": {
+        "sessionId": "3f168195-16db-4070-8560-7542ddc91750",
+        "event": {
+          "verb": "PUT",
+          "eventType": "PageView",
+          "applicationId": 34823,
+          "userId": "5f200333-0209-4269-a6fa-029b1c6c233c",
+          "timestamp": "2025-12-24T02:23:55.472849+00:00",
+          "metadata": {
+            "ipAddress": "149.240.250.218",
+            "userAgent": "Painting give occur she attention. Thus role collection figure change girl interview.\nTraining value improve allow size continue. She lawyer word maintain. Once yet central opportunity possible.",
+            "deviceId": "fd666ecd-4ab4-4e05-98ce-58cd08aa650b"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.472922+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "30af5bc4-8737-4c44-afe3-f7f0928a92d7",
+      "publishTime": "2025-12-24T02:23:55.472838+00:00",
+      "payload": {
+        "sessionId": "3f168195-16db-4070-8560-7542ddc91750",
+        "event": {
+          "verb": "PUT",
+          "eventType": "PageView",
+          "applicationId": 34823,
+          "userId": "5f200333-0209-4269-a6fa-029b1c6c233c",
+          "timestamp": "2025-12-24T02:23:55.472849+00:00",
+          "metadata": {
+            "ipAddress": "149.240.250.218",
+            "userAgent": "Painting give occur she attention. Thus role collection figure change girl interview.\nTraining value improve allow size continue. She lawyer word maintain. Once yet central opportunity possible.",
+            "deviceId": "fd666ecd-4ab4-4e05-98ce-58cd08aa650b"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.472922+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "30af5bc4-8737-4c44-afe3-f7f0928a92d7",
+      "publishTime": "2025-12-24T02:23:55.472838+00:00",
+      "payload": {
+        "sessionId": "3f168195-16db-4070-8560-7542ddc91750",
+        "event": {
+          "verb": "PUT",
+          "eventType": "PageView",
+          "applicationId": 34823,
+          "userId": "5f200333-0209-4269-a6fa-029b1c6c233c",
+          "timestamp": "2025-12-24T02:23:55.472849+00:00",
+          "metadata": {
+            "ipAddress": "149.240.250.218",
+            "userAgent": "Painting give occur she attention. Thus role collection figure change girl interview.\nTraining value improve allow size continue. She lawyer word maintain. Once yet central opportunity possible.",
+            "deviceId": "fd666ecd-4ab4-4e05-98ce-58cd08aa650b"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.472922+00:00",
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "45679f67-bb0c-49b0-ae12-c3c8f921ea54",
+      "publishTime": "2025-12-24T02:23:55.472943+00:00",
+      "payload": {
+        "sessionId": "3e8c3e12-b78f-4019-a9c0-b59927175bcf",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "PageView",
+          "applicationId": 36034,
+          "userId": "f00a803b-1c26-40e9-b58e-bf897321085d",
+          "timestamp": "2025-12-24T02:23:55.472952+00:00",
+          "metadata": {
+            "ipAddress": "21.93.54.132",
+            "userAgent": "Place say expect kind boy describe. Sit always raise best. Cover for morning news area.\nSenior either seven serious street care. Standard successful another. Clearly well happen case.",
+            "deviceId": "b3edbf99-bd29-45c9-8b37-d86fbf004913"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "drift_test_col_3_cuta": 18397,
+      "_drift_applied": [
+        "add_column",
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "ecd29232-e918-47e0-95e9-323ff0ba7c35",
+      "publishTime": "2025-12-24T02:23:55.473043+00:00",
+      "payload": {
+        "sessionId": "a58e3458-381b-425f-98b4-575786b1a133",
+        "event": {
+          "verb": "GET",
+          "eventType": "PageView",
+          "applicationId": 97971,
+          "userId": "bf6191eb-d5f2-4093-87d7-9fe57638a79d",
+          "timestamp": "2025-12-24T02:23:55.473051+00:00",
+          "metadata": {
+            "ipAddress": "9.154.176.80",
+            "userAgent": "Box college collection full recent decide few. Western finish partner whose trial short. Everything already office travel nice hot.",
+            "deviceId": "8a06a599-fcb8-4268-988b-d0efbdf54911"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.473104+00:00"
+    },
+    {
+      "messageId": "aa405d71-19d1-4ab7-86c1-685bbec35d21",
+      "publishTime": "2025-12-24T02:23:55.473109+00:00",
+      "payload": {
+        "sessionId": "3ab62f34-9403-4f16-87ac-8dfbd45f5546",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 63342,
+          "userId": "fda9be53-a4fc-4773-90b9-148732a7c0a0",
+          "timestamp": "2025-12-24T02:23:55.475881+00:00",
+          "metadata": {
+            "ipAddress": "47.177.84.250",
+            "userAgent": "Smile just weight whole throughout how to. Service her often may. Task wind lot letter our management television attack.\nExpert security value range painting energy. Treatment author ever skin.",
+            "deviceId": "33f98717-114e-4a66-9bea-72dec7bc9f18"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_drift_applied": [
+        "delete_column"
+      ]
+    },
+    {
+      "messageId": "aa405d71-19d1-4ab7-86c1-685bbec35d21",
+      "publishTime": "2025-12-24T02:23:55.473109+00:00",
+      "payload": {
+        "sessionId": "3ab62f34-9403-4f16-87ac-8dfbd45f5546",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 63342,
+          "userId": "fda9be53-a4fc-4773-90b9-148732a7c0a0",
+          "timestamp": "2025-12-24T02:23:55.475881+00:00",
+          "metadata": {
+            "ipAddress": "47.177.84.250",
+            "userAgent": "Smile just weight whole throughout how to. Service her often may. Task wind lot letter our management television attack.\nExpert security value range painting energy. Treatment author ever skin.",
+            "deviceId": "33f98717-114e-4a66-9bea-72dec7bc9f18"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_drift_applied": [
+        "delete_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 1
+    },
+    {
+      "messageId": "aa405d71-19d1-4ab7-86c1-685bbec35d21",
+      "publishTime": "2025-12-24T02:23:55.473109+00:00",
+      "payload": {
+        "sessionId": "3ab62f34-9403-4f16-87ac-8dfbd45f5546",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 63342,
+          "userId": "fda9be53-a4fc-4773-90b9-148732a7c0a0",
+          "timestamp": "2025-12-24T02:23:55.475881+00:00",
+          "metadata": {
+            "ipAddress": "47.177.84.250",
+            "userAgent": "Smile just weight whole throughout how to. Service her often may. Task wind lot letter our management television attack.\nExpert security value range painting energy. Treatment author ever skin.",
+            "deviceId": "33f98717-114e-4a66-9bea-72dec7bc9f18"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_drift_applied": [
+        "delete_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 2
+    },
+    {
+      "messageId": "aa405d71-19d1-4ab7-86c1-685bbec35d21",
+      "publishTime": "2025-12-24T02:23:55.473109+00:00",
+      "payload": {
+        "sessionId": "3ab62f34-9403-4f16-87ac-8dfbd45f5546",
+        "event": {
+          "verb": "GET",
+          "eventType": "Click",
+          "applicationId": 63342,
+          "userId": "fda9be53-a4fc-4773-90b9-148732a7c0a0",
+          "timestamp": "2025-12-24T02:23:55.475881+00:00",
+          "metadata": {
+            "ipAddress": "47.177.84.250",
+            "userAgent": "Smile just weight whole throughout how to. Service her often may. Task wind lot letter our management television attack.\nExpert security value range painting energy. Treatment author ever skin.",
+            "deviceId": "33f98717-114e-4a66-9bea-72dec7bc9f18"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_drift_applied": [
+        "delete_column"
+      ],
+      "_is_duplicate": true,
+      "_duplicate_index": 3
+    },
+    {
+      "messageId": "6833af35-9b63-454c-b6ee-9e9be071d962",
+      "publishTime": "2025-12-24T02:23:55.475991+00:00",
+      "payload": {
+        "sessionId": "443efc0f-bea3-4d2c-853b-2057933d81c3",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Login",
+          "applicationId": 93227,
+          "userId": "40985f2e-c27b-4313-8f79-e4555aa9ff63",
+          "timestamp": "2025-12-24T02:23:55.476000+00:00",
+          "metadata": {
+            "ipAddress": "52.90.217.111",
+            "userAgent": "Size large particularly itself effect vote individual. Upon boy grow policy enjoy.\nCustomer itself never show group. Return right dinner set wife. Subject billion short.",
+            "deviceId": "f2093ec0-3583-45b8-b049-7ec856b54cad"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.476059+00:00"
+    },
+    {
+      "messageId": "8f98c1d1-af12-4c7d-add5-ab58a8abcaa4",
+      "publishTime": "2025-12-24T02:23:55.476063+00:00",
+      "payload": {
+        "sessionId": "01c7de89-8b0f-4b0f-9f0a-74cea508ae20",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Heartbeat",
+          "applicationId": 25217,
+          "userId": "6f3ac04b-9662-4d91-a7e1-ca081ac6cdd6",
+          "timestamp": "2025-12-24T02:23:55.476074+00:00",
+          "metadata": {
+            "ipAddress": "17.207.237.143",
+            "userAgent": "Among man camera present face avoid. Ten behavior staff many sister hot.\nEnvironment none dog Republican next challenge. Cause suddenly high significant page.",
+            "deviceId": "226c529c-a036-494c-9996-8ecbee4cc3c5"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.476138+00:00",
+      "drift_test_col_10_ttbu": 5609.55,
+      "_drift_applied": [
+        "add_column"
+      ]
+    },
+    {
+      "messageId": "c54824cc-2965-4da9-a798-38e19cf90cd9",
+      "publishTime": "2025-12-24T02:23:55.476151+00:00",
+      "payload": {
+        "sessionId": "76cd92e2-eeb1-494c-89f0-d694cb16525c",
+        "event": {
+          "verb": "DELETE",
+          "eventType": "Heartbeat",
+          "applicationId": 45239,
+          "userId": "268bc377-c619-4e7d-be3c-923d4a45a28b",
+          "timestamp": "2025-12-24T02:23:55.476159+00:00",
+          "metadata": {
+            "ipAddress": "91.74.190.9",
+            "userAgent": "Free kid sing PM. Message trial simply suggest actually.\nDrive skill popular artist but left. Able laugh parent.\nToward simply respond participant article. Market appear end but clear us red.",
+            "deviceId": "d221a9e3-e3cb-4fa3-bb6a-f96bef4b2d1b"
+          }
+        }
+      },
+      "_batch_id": 8708710000000.0,
+      "_generated_at": "2025-12-24T02:23:55.476233+00:00",
+      "_drift_applied": [
+        "add_column",
+        "delete_column",
+        "type_change"
+      ]
+    },
+    {
+      "payload": {
+        "sessionId": "a1f4313e-e9aa-41c1-8e16-18fcc862fbb5",
+        "event": {
+          "verb": "PUT",
+          "eventType": "Heartbeat",
+          "applicationId": 23941,
+          "userId": "60a1c459-dab9-42da-8188-bc0752c7b336",
+          "timestamp": "2025-12-24T02:23:55.476256+00:00",
+          "metadata": {
+            "ipAddress": "4.72.137.213",
+            "userAgent": "Consider every large school. Money identify tend summer. Gas take care such strategy everyone to.\nFull accept anything we why. Physical where father accept value allow more. Fact on leader first.",
+            "deviceId": "0b2eaf7a-f214-4c60-8a0d-f3d8a9fc4b23"
+          }
+        }
+      },
+      "_generated_at": "2025-12-24T02:23:55.476324+00:00",
+      "publishTime": "2025-12-24T02:23:55.476248+00:00",
+      "_batch_id": "870871e7",
+      "drift_test_col_12_dupf": 4,
+      "messageId": "cf9fb74f-a7a7-4ed8-991d-c9f8ffc4113c",
+      "_drift_applied": [
+        "add_column",
+        "reorder",
+        "type_change"
+      ]
+    },
+    {
+      "messageId": "f967261a-e5e6-452d-bf71-5b5ad54876fa",
+      "publishTime": "2025-12-24T02:23:55.476346+00:00",
+      "payload": {
+        "sessionId": "db1b9929-f60f-4d55-987f-d170971a7fef",
+        "event": {
+          "verb": "PATCH",
+          "eventType": "Transaction",
+          "applicationId": 61025,
+          "userId": "aa428162-e60c-43aa-85bf-56cf243b1f8c",
+          "timestamp": "2025-12-24T02:23:55.476354+00:00",
+          "metadata": {
+            "ipAddress": "130.210.233.131",
+            "userAgent": "To common plant even. Suffer clearly shake same deal seem.\nPerhaps radio human. Research Mr serious ahead represent necessary plan. Ok modern perhaps kitchen.",
+            "deviceId": "baac48b6-774a-4eeb-a3e6-3ce354d51414"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.476425+00:00"
+    },
+    {
+      "messageId": "7dbd0088-5c08-4b5a-9af1-f4f58b4b32a9",
+      "publishTime": "2025-12-24T02:23:55.476429+00:00",
+      "payload": {
+        "sessionId": "c98c145f-1897-4c1c-be55-2a47261c5b25",
+        "event": {
+          "verb": "GET",
+          "eventType": "Transaction",
+          "applicationId": 98015,
+          "userId": "809eb28f-f164-44c7-9d58-c6f31d8b33c5",
+          "timestamp": "2025-12-24T02:23:55.476436+00:00",
+          "metadata": {
+            "ipAddress": "81.185.236.29",
+            "userAgent": "Realize turn pull become. Approach new just rock drug learn local. Voice college lose.\nBeautiful stuff various interesting nearly ago although. Hit Republican inside home our tough his.",
+            "deviceId": "9641bc3e-03bc-4df9-ab32-1df579db3605"
+          }
+        }
+      },
+      "_batch_id": "870871e7",
+      "_generated_at": "2025-12-24T02:23:55.476491+00:00"
+    }
+  ]
+}
