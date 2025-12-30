@@ -26,3 +26,8 @@ Thumbs.db
 dist/
 build/
 *.egg-info/
+
+# Config files with environment-specific values (AWS account IDs, queue URLs, etc.)
+# Use config.example.json as a template
+config_*.json
+test_config_validation.py

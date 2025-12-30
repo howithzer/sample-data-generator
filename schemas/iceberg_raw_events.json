@@ -1,0 +1,23 @@
+{
+    "name": "iceberg_raw_events",
+    "version": "1.0.0",
+    "description": "Schema matching Firehose Iceberg table: raw_events",
+    "fields": [
+        {
+            "name": "message_id",
+            "type": "uuid"
+        },
+        {
+            "name": "event_ts",
+            "type": "timestamp"
+        },
+        {
+            "name": "ingestion_ts",
+            "type": "timestamp"
+        },
+        {
+            "name": "message_payload",
+            "type": "text"
+        }
+    ]
+}

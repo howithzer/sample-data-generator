@@ -1,0 +1,36 @@
+{
+    "run_mode": "local",
+    "log_format": "user",
+    "log_level": "INFO",
+    "sink_type": "sqs",
+    "concurrency": 5,
+    "batch_size": 100,
+    "total_records": 1000,
+    "metrics_interval_seconds": 5,
+    "schema_config": {
+        "base_schema": "schemas/iceberg_raw_events.json",
+        "drift": {
+            "enabled": false,
+            "percentage": 0.05,
+            "add_columns": true,
+            "delete_columns": false,
+            "reorder_columns": false,
+            "type_changes": false
+        },
+        "duplicates": {
+            "enabled": true,
+            "percentage": 0.10
+        }
+    },
+    "sqs_config": {
+        "target_sqs_url": "https://sqs.us-east-1.amazonaws.com/YOUR_ACCOUNT_ID/your-queue-name",
+        "region": "us-east-1"
+    },
+    "firehose_config": {
+        "delivery_stream_name": "your-firehose-stream-name",
+        "region": "us-east-1"
+    },
+    "file_config": {
+        "output_dir": "./output"
+    }
+}
