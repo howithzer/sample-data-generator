@@ -98,24 +98,55 @@ class DuplicateConfig(BaseModel):
     """
     Configuration for duplicate record simulation.
     
-    Simulates network latency scenarios where the same record is sent
-    multiple times (e.g., client retries, at-least-once delivery).
+    Supports TWO types of duplicates for testing deduplication:
     
-    This tests your pipeline's deduplication logic.
+    1. NETWORK DUPLICATES (network_duplicate_*)
+       - Same messageId, same content
+       - Simulates PubSub → SQS network retries
+       - Tests Stage 1 dedup (FIFO by message_id)
+    
+    2. APP CORRECTION DUPLICATES (app_correction_*)
+       - Same idempotency_key, DIFFERENT content
+       - Simulates app resending corrected data
+       - Tests Stage 2 dedup (LIFO by idempotency_key)
     """
 
     enabled: bool = False
+    
+    # Network duplicates (same messageId, same content)
+    network_duplicate_percentage: float = Field(
+        default=0.0,
+        ge=0.0,
+        le=1.0,
+        description="Probability of network duplicate per record (0.0 to 1.0)",
+    )
+    network_duplicate_max: int = Field(
+        default=2,
+        ge=1,
+        le=5,
+        description="Maximum number of network duplicates per record",
+    )
+    
+    # App correction duplicates (same idempotency_key, different content)
+    app_correction_percentage: float = Field(
+        default=0.0,
+        ge=0.0,
+        le=1.0,
+        description="Probability of app correction duplicate (0.0 to 1.0)",
+    )
+    
+    # Legacy field for backward compatibility
     percentage: float = Field(
         default=0.0,
         ge=0.0,
         le=1.0,
-        description="Probability of duplicating a record (0.0 to 1.0)",
+        description="(DEPRECATED) Use network_duplicate_percentage instead",
     )
     max_duplicates: int = Field(
         default=2,
         ge=1,
         le=10,
-        description="Maximum number of duplicates per record",
+        description="(DEPRECATED) Use network_duplicate_max instead",
     )
 
     # -------------------------------------------------------------------------
@@ -124,16 +155,20 @@ class DuplicateConfig(BaseModel):
     @model_validator(mode="after")
     def validate_duplicate_settings(self) -> "DuplicateConfig":
         """
-        Ensure percentage is meaningful when duplicates are enabled.
-        
-        Prevents misconfiguration where user enables duplicates but forgets
-        to set a percentage, resulting in no duplicates actually occurring.
+        Ensure at least one duplicate type has percentage > 0 when enabled.
+        Also handle legacy percentage field migration.
         """
-        if self.enabled and self.percentage == 0.0:
-            raise ValueError(
-                "duplicates.percentage must be > 0 when duplicates.enabled is True. "
-                "Otherwise, no duplicates will be created despite being enabled."
-            )
+        # Migrate legacy percentage to network_duplicate_percentage
+        if self.percentage > 0 and self.network_duplicate_percentage == 0:
+            object.__setattr__(self, 'network_duplicate_percentage', self.percentage)
+            object.__setattr__(self, 'network_duplicate_max', self.max_duplicates)
+        
+        if self.enabled:
+            if self.network_duplicate_percentage == 0 and self.app_correction_percentage == 0:
+                raise ValueError(
+                    "When duplicates.enabled is True, at least one of "
+                    "network_duplicate_percentage or app_correction_percentage must be > 0."
+                )
         return self
 
 

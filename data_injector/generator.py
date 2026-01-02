@@ -251,43 +251,128 @@ class DriftSimulator:
 
 
 class DuplicateSimulator:
-    """Simulates duplicate records (network latency scenarios)."""
+    """
+    Simulates two types of duplicate records for testing deduplication:
+    
+    1. NETWORK DUPLICATES: Same messageId, same content
+       - Simulates PubSub → SQS network retries
+       - Curation Stage 1 dedup should keep FIRST (FIFO by message_id)
+    
+    2. APP CORRECTION DUPLICATES: Same idempotency_key, DIFFERENT content
+       - Simulates app resending corrected data
+       - Curation Stage 2 dedup should keep LAST (LIFO by idempotency_key)
+    """
 
     def __init__(self, config: DuplicateConfig):
         self.config = config
-        self.total_duplicates_created = 0
+        self.network_duplicates_created = 0
+        self.app_corrections_created = 0
+        # Store idempotency keys for creating corrections later
+        self._idempotency_pool: list[tuple[str, dict]] = []
 
-    def should_duplicate(self) -> bool:
-        """Determine if record should be duplicated."""
+    def should_create_network_duplicate(self) -> bool:
+        """Determine if network duplicate should be created."""
         if not self.config.enabled:
             return False
-        return random.random() < self.config.percentage
+        return random.random() < self.config.network_duplicate_percentage
+
+    def should_create_app_correction(self) -> bool:
+        """Determine if app correction duplicate should be created."""
+        if not self.config.enabled:
+            return False
+        return random.random() < self.config.app_correction_percentage
 
     def create_duplicates(self, record: dict[str, Any]) -> list[dict[str, Any]]:
         """
-        Create duplicate copies of a record.
+        Create duplicate copies of a record (network duplicates).
+
+        Network duplicates have:
+        - Same messageId
+        - Same content
+        - Marked with _is_network_duplicate
 
         Args:
             record: Original record to duplicate
 
         Returns:
-            List containing original + duplicates (with _is_duplicate marker)
+            List containing original + duplicates
         """
-        if not self.should_duplicate():
-            return [record]
-
-        # Random number of duplicates (1 to max_duplicates)
-        num_duplicates = random.randint(1, self.config.max_duplicates)
-
         result = [record]
-        for i in range(num_duplicates):
-            dup = copy.deepcopy(record)
-            dup["_is_duplicate"] = True
-            dup["_duplicate_index"] = i + 1
-            result.append(dup)
-            self.total_duplicates_created += 1
+        
+        # Store for potential app correction later
+        idempotency_key = self._extract_idempotency_key(record)
+        if idempotency_key and self.should_create_app_correction():
+            self._idempotency_pool.append((idempotency_key, copy.deepcopy(record)))
+
+        # Create network duplicates (same messageId, same content)
+        if self.should_create_network_duplicate():
+            num_duplicates = random.randint(1, self.config.network_duplicate_max)
+            
+            for i in range(num_duplicates):
+                dup = copy.deepcopy(record)
+                dup["_is_network_duplicate"] = True
+                dup["_duplicate_index"] = i + 1
+                # Keep same messageId - that's the point of network duplicate
+                result.append(dup)
+                self.network_duplicates_created += 1
 
         return result
+
+    def create_app_corrections(self, batch_records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        """
+        Create app correction records for previously seen idempotency_keys.
+        
+        App corrections have:
+        - Same idempotency_key as an earlier record
+        - DIFFERENT content (simulating a correction)
+        - NEW messageId (new message from app)
+        - Marked with _is_app_correction
+        
+        Returns:
+            List of correction records to append to batch
+        """
+        corrections = []
+        
+        for idempotency_key, original_record in self._idempotency_pool:
+            correction = copy.deepcopy(original_record)
+            
+            # Generate NEW messageId (this is a new message from the app)
+            correction["messageId"] = str(uuid.uuid4())
+            
+            # Keep same idempotency_key (that's the point of app correction)
+            # The payload should have the same idempotency_key in _metadata
+            
+            # Modify payload content to simulate correction
+            if "payload" in correction and isinstance(correction["payload"], dict):
+                # Add correction marker and modify some values
+                correction["payload"]["_corrected"] = True
+                correction["payload"]["_correction_ts"] = datetime.now(timezone.utc).isoformat()
+                
+                # Modify a numeric value if present (simulate data correction)
+                for key, value in correction["payload"].items():
+                    if isinstance(value, (int, float)) and not key.startswith("_"):
+                        correction["payload"][key] = value * 1.1  # 10% adjustment
+                        break
+            
+            correction["_is_app_correction"] = True
+            correction["_original_message_id"] = original_record.get("messageId")
+            corrections.append(correction)
+            self.app_corrections_created += 1
+        
+        # Clear pool after processing
+        self._idempotency_pool.clear()
+        
+        return corrections
+
+    def _extract_idempotency_key(self, record: dict[str, Any]) -> str | None:
+        """Extract idempotency_key from record payload."""
+        # Try nested payload._metadata.idempotencyKeyResource
+        if "payload" in record and isinstance(record["payload"], dict):
+            payload = record["payload"]
+            if "_metadata" in payload and isinstance(payload["_metadata"], dict):
+                return payload["_metadata"].get("idempotencyKeyResource")
+            return payload.get("idempotencyKeyResource")
+        return None
 
 
 class DataGenerator:
@@ -376,13 +461,20 @@ class DataGenerator:
         records = []
         for _ in range(batch_size):
             record = self.generate_record(batch_id)
-            # Create duplicates if configured
+            # Create network duplicates if configured (same messageId)
             records.extend(self.duplicate_simulator.create_duplicates(record))
 
-        duplicate_count = sum(1 for r in records if r.get("_is_duplicate"))
-        if duplicate_count > 0:
+        # Create app correction duplicates (same idempotency_key, different content)
+        app_corrections = self.duplicate_simulator.create_app_corrections(records)
+        records.extend(app_corrections)
+
+        # Count duplicates for logging
+        network_dup_count = sum(1 for r in records if r.get("_is_network_duplicate"))
+        app_corr_count = sum(1 for r in records if r.get("_is_app_correction"))
+        
+        if network_dup_count > 0 or app_corr_count > 0:
             logger.debug(
-                f"Generated batch with {batch_size} unique + {duplicate_count} duplicates",
+                f"Generated batch: {batch_size} unique + {network_dup_count} network dups + {app_corr_count} app corrections",
                 extra={"batch_id": batch_id},
             )
         else:

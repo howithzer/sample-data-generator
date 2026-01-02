@@ -19,7 +19,9 @@
         },
         "duplicates": {
             "enabled": true,
-            "percentage": 0.10
+            "network_duplicate_percentage": 0.05,
+            "network_duplicate_max": 2,
+            "app_correction_percentage": 0.03
         }
     },
     "sqs_config": {
