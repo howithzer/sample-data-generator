@@ -7,6 +7,11 @@
         "publishTime": "timestamp"
     },
     "payload": {
+        "_metadata": {
+            "idempotencyKeyResource": "uuid",
+            "correlationId": "uuid",
+            "periodReference": "date"
+        },
         "sessionId": "uuid",
         "event": {
             "verb": {
